@@ -1,0 +1,14 @@
+{
+  "id": "en-good",
+  "title": "An already well-built prompt",
+  "draft": "I'm preparing a 20-minute talk for a local meetup of junior web developers about why their first production incident is not a disaster. Write an outline for the talk.\n\nAudience: developers with zero to two years of experience, mostly working with JavaScript and Node.js, many of whom have never been on call. They are nervous about breaking things in production.\n\nGoal: they should leave believing that incidents are normal, knowing what to do in the first ten minutes of one, and understanding what a blameless post-mortem looks like.\n\nConstraints:\n- Five sections at most, each with a one-line summary and two or three talking points.\n- Include one short story I can tell about an incident of my own; leave a placeholder [my incident story] where it goes.\n- Suggest where a single live demo or diagram would help, but no more than one.\n- Avoid jargon such as SLO or MTTR unless you explain it in one sentence.\n\nFormat the outline as a numbered list with sub-bullets. Finish with three questions the audience is likely to ask, each with a one-sentence answer I could give.",
+  "target": "gpt",
+  "expectedLanguage": "en",
+  "preserveVerbatim": [
+    "[my incident story]"
+  ],
+  "expectFillIn": true,
+  "minSimilarityToDraft": 0.8,
+  "inSmoke": false,
+  "notes": "Returning it almost unchanged is the right outcome."
+}

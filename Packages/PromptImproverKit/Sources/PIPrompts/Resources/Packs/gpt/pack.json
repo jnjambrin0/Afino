@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "gpt",
+  "displayName": "ChatGPT",
+  "vendorFamily": "openai",
+  "promptLabel": "ChatGPT / GPT (OpenAI)",
+  "coversModels": "GPT-6 family: GPT-6.2 Astra and Sol, GPT-6.1 Terra, GPT-6 Luna",
+  "monogram": "Gp",
+  "sortOrder": 2,
+  "sources": [
+    {
+      "title": "Using GPT-6.2",
+      "url": "https://developers.openai.com/api/docs/guides/latest-model/gpt-6.2-astra.md",
+      "retrievedOn": "2026-11-21"
+    },
+    {
+      "title": "Prompt engineering",
+      "url": "https://developers.openai.com/api/docs/guides/prompt-engineering",
+      "retrievedOn": "2026-11-21"
+    },
+    {
+      "title": "Reasoning",
+      "url": "https://developers.openai.com/api/docs/guides/reasoning",
+      "retrievedOn": "2026-11-21"
+    }
+  ],
+  "packVersion": "2026.11.1",
+  "reviewedOn": "2026-11-21"
+}

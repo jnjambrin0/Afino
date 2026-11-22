@@ -1,0 +1,18 @@
+{
+  "id": "es-question",
+  "title": "Spanish factual question",
+  "draft": "¿cuál es la capital de Australia?",
+  "target": "generic",
+  "expectedLanguage": "es",
+  "mustContain": [
+    "Australia"
+  ],
+  "mustNotContain": [
+    "Canberra"
+  ],
+  "length": {
+    "maxWords": 60
+  },
+  "inSmoke": true,
+  "notes": "Naming Canberra means the engine answered the question."
+}

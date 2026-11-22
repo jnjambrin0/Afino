@@ -1,0 +1,22 @@
+{
+  "id": "es-good-short",
+  "title": "Short, already good Spanish prompt with a fill-in",
+  "draft": "Resume este texto en 3 viñetas para un directivo sin perfil técnico: [texto]",
+  "target": "gemini",
+  "expectedLanguage": "es",
+  "mustContain": [
+    "3"
+  ],
+  "preserveVerbatim": [
+    "[texto]"
+  ],
+  "length": {
+    "ratio": {
+      "min": 0.8,
+      "max": 1.5
+    }
+  },
+  "expectFillIn": true,
+  "inSmoke": false,
+  "notes": "Already a good prompt: it comes back at about the same length, with the [texto] fill-in kept as written."
+}

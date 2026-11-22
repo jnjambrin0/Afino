@@ -1,0 +1,20 @@
+{
+  "id": "en-long-messy-refine-shorter",
+  "title": "Refinement: \"más corto\" on en-long-messy",
+  "variantOf": "en-long-messy",
+  "expectedLanguage": "en",
+  "refine": "más corto",
+  "mustContain": [
+    "Raspberry Pi 4",
+    "Catalan",
+    "90 seconds",
+    "Ilse",
+    "Mailchimp",
+    "June 3"
+  ],
+  "length": {
+    "shorterThanPreviousBy": 0.25
+  },
+  "inSmoke": false,
+  "notes": "The revision is at least 25 % shorter than the first output and keeps the six facts; a Spanish instruction does not switch the prompt to Spanish."
+}

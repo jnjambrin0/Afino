@@ -1,0 +1,31 @@
+{
+  "id": "en-system-no-headings",
+  "title": "Preference: no Markdown headings, on en-system",
+  "variantOf": "en-system",
+  "expectedLanguage": "en",
+  "preferences": {
+    "customInstructions": "No Markdown headings."
+  },
+  "mustContain": [
+    "£35",
+    "30 days",
+    "needs-human",
+    "48 hours",
+    "escalat",
+    "refund"
+  ],
+  "mustNotMatch": [
+    "(?m)^\\s{0,3}#{1,6}\\s"
+  ],
+  "preserveVerbatim": [
+    "{{customer_first_name}}"
+  ],
+  "length": {
+    "ratio": {
+      "min": 0.6,
+      "max": 1.4
+    }
+  },
+  "inSmoke": false,
+  "notes": "The custom instruction wins over the draft's structure: no line may start with a Markdown heading."
+}

@@ -1,0 +1,14 @@
+{
+  "max_tokens": 16000,
+  "messages": [
+    { "role": "user", "content": "Improve this: write a haiku about rain" }
+  ],
+  "model": "claude-haiku-5-5",
+  "output_config": { "effort": "low" },
+  "stream": true,
+  "system": [
+    { "type": "text", "text": "You are the rewriting engine." },
+    { "type": "text", "text": "<target_guidance>Be literal.</target_guidance>", "cache_control": { "type": "ephemeral" } }
+  ],
+  "thinking": { "type": "disabled" }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "img-es",
+  "title": "Spanish image-generation request",
+  "draft": "un logo minimalista para una cafetería que se llama Brasa, tonos tierra",
+  "target": "gemini",
+  "expectedLanguage": "es",
+  "mustContain": [
+    "Brasa",
+    "logo"
+  ],
+  "inSmoke": true,
+  "notes": "An image prompt describes the result rather than instructing an assistant."
+}

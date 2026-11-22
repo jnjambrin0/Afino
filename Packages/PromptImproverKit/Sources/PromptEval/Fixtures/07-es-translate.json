@@ -1,0 +1,15 @@
+{
+  "id": "es-translate",
+  "title": "Spanish translation request with a quoted sentence",
+  "draft": "traduce al inglés: 'me he quedado sin batería, llego tarde'",
+  "target": "gemini",
+  "expectedLanguage": "es",
+  "mustNotContain": [
+    "battery"
+  ],
+  "preserveVerbatim": [
+    "me he quedado sin batería, llego tarde"
+  ],
+  "inSmoke": false,
+  "notes": "The quoted sentence must stay in Spanish, untranslated."
+}

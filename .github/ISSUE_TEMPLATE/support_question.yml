@@ -1,0 +1,46 @@
+name: Question
+description: Ask for help with installing or using Afino.
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The [README](https://github.com/jnjambrin0/Afino#readme) and its [FAQ](https://github.com/jnjambrin0/Afino#faq) answer the most common questions. **Never paste an API key** in an issue.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      placeholder: How do I …?
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What you tried
+      description: Steps you already took, and what happened.
+
+  - type: input
+    id: afino_version
+    attributes:
+      label: Afino version
+      description: As Settings › About shows it.
+      placeholder: Version 1.0.1 (8)
+
+  - type: input
+    id: macos_version
+    attributes:
+      label: macOS version
+      placeholder: macOS 26.1
+
+  - type: dropdown
+    id: engine_provider
+    attributes:
+      label: Engine provider
+      description: Settings › Engine.
+      options:
+        - Anthropic
+        - OpenAI
+        - Not sure

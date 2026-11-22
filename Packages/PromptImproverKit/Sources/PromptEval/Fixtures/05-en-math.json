@@ -1,0 +1,16 @@
+{
+  "id": "en-math",
+  "title": "Arithmetic question",
+  "draft": "what's 17 * 23?",
+  "target": "gemini",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "17",
+    "23"
+  ],
+  "mustNotContain": [
+    "391"
+  ],
+  "inSmoke": false,
+  "notes": "391 is the answer; a prompt must leave it to the target."
+}

@@ -1,0 +1,1554 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "welcome.announce" : {
+      "comment" : "Welcome, VoiceOver announcement when a step comes in; the arguments are the step's title, its number and the number of steps",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, step %2$lld of %3$lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, paso %2$lld de %3$lld"
+          }
+        }
+      }
+    },
+    "welcome.back" : {
+      "comment" : "Welcome footer: button that goes back one step",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        }
+      }
+    },
+    "welcome.cap.command" : {
+      "comment" : "Welcome, step 3 (shortcut): printed under ⌘ on the large Command key cap, lowercase as on a Mac keyboard",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "command"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "comando"
+          }
+        }
+      }
+    },
+    "welcome.cap.control" : {
+      "comment" : "Welcome, step 3 (shortcut): printed under ⌃ on the large Control key cap, lowercase as on a Mac keyboard",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "control"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "control"
+          }
+        }
+      }
+    },
+    "welcome.cap.option" : {
+      "comment" : "Welcome, step 3 (shortcut): printed under ⌥ on the large Option key cap, lowercase as on a Mac keyboard",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "option"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "opción"
+          }
+        }
+      }
+    },
+    "welcome.cap.shift" : {
+      "comment" : "Welcome, step 3 (shortcut): printed under ⇧ on the large Shift key cap, lowercase as on a Mac keyboard",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "shift"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mayús"
+          }
+        }
+      }
+    },
+    "welcome.continue" : {
+      "comment" : "Welcome footer: accent button that goes to the next step (Return)",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        }
+      }
+    },
+    "welcome.demo.copied" : {
+      "comment" : "Welcome, step 1 (intro): status in the illustrated panel once the prompt is copied, worded as the panel words it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copied"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiado"
+          }
+        }
+      }
+    },
+    "welcome.demo.copyClose" : {
+      "comment" : "Welcome, step 1 (intro): button in the illustrated panel, worded as the panel words it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy & Close"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar y cerrar"
+          }
+        }
+      }
+    },
+    "welcome.demo.draft" : {
+      "comment" : "Welcome, step 1 (intro): the rough line typed into the illustrated panel; deliberately rough and lowercase",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "email landlord, heater broken since monday, ask them to fix it this week"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "correo al casero, la calefacción no va desde el lunes, que la arreglen esta semana"
+          }
+        }
+      }
+    },
+    "welcome.demo.for" : {
+      "comment" : "Welcome, step 1 (intro): label before the target chip in the illustrated panel, worded as the panel words it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para"
+          }
+        }
+      }
+    },
+    "welcome.demo.result" : {
+      "comment" : "Welcome, step 1 (intro): the improved prompt that streams into the illustrated panel; about 45 words, so it fits in four lines",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write a short, polite email to my landlord. The heater in my flat has not worked since Monday. Ask for a repair visit this week, offer two times I can be at home, and keep the tone friendly but firm. Under 120 words."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe un correo breve y educado a mi casero. La calefacción de mi piso no funciona desde el lunes. Pide que vengan a repararla esta semana, propón dos horas en las que puedo estar en casa y mantén un tono amable pero firme. Menos de 120 palabras."
+          }
+        }
+      }
+    },
+    "welcome.demo.thinking" : {
+      "comment" : "Welcome, step 1 (intro): status in the illustrated panel while the caret breathes, worded as the panel words it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thinking…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensando…"
+          }
+        }
+      }
+    },
+    "welcome.demo.writing" : {
+      "comment" : "Welcome, step 1 (intro): status in the illustrated panel while the text streams in",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Writing…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribiendo…"
+          }
+        }
+      }
+    },
+    "welcome.intro.subtitle" : {
+      "comment" : "Welcome, step 1 (intro): subtitle saying what Afino does, in one sentence",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type a rough idea or paste a draft, and get back a clear, complete prompt for Claude, ChatGPT or Gemini — already on your clipboard."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe una idea a medias o pega un borrador y recibe un prompt claro y completo para Claude, ChatGPT o Gemini, ya copiado en tu portapapeles."
+          }
+        }
+      }
+    },
+    "welcome.intro.title" : {
+      "comment" : "Welcome, step 1 (intro): title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to Afino"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Te damos la bienvenida a Afino"
+          }
+        }
+      }
+    },
+    "welcome.key.later" : {
+      "comment" : "Welcome footer on step 2 (API key): button that goes on without a key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add it later"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadirla más tarde"
+          }
+        }
+      }
+    },
+    "welcome.key.later.note" : {
+      "comment" : "Welcome, step 2 (API key): note under the key field while no key works; also the VoiceOver hint of “Add it later”",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No key yet? Add it later — the panel will ask for it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Aún no tienes clave? Añádela más tarde: el panel te la pedirá."
+          }
+        }
+      }
+    },
+    "welcome.key.privacy" : {
+      "comment" : "Welcome, step 2 (API key): note under the key field; the argument is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your key stays in your Mac's Keychain and is sent only to %@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu clave se guarda en el Llavero de tu Mac y solo se envía a %@."
+          }
+        }
+      }
+    },
+    "welcome.key.provider" : {
+      "comment" : "Welcome, step 2 (API key): VoiceOver name of the provider choice",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provider"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proveedor"
+          }
+        }
+      }
+    },
+    "welcome.key.provider.anthropic" : {
+      "comment" : "Welcome, step 2 (API key): provider chip, the company and then its models",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anthropic · Claude"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anthropic · Claude"
+          }
+        }
+      }
+    },
+    "welcome.key.provider.openai" : {
+      "comment" : "Welcome, step 2 (API key): provider chip, the company and then its models",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI · GPT"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI · GPT"
+          }
+        }
+      }
+    },
+    "welcome.key.ready" : {
+      "comment" : "Welcome, step 2 (API key): note under the key field once a key works; the argument is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All set — Afino will use %@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo listo: Afino usará %@."
+          }
+        }
+      }
+    },
+    "welcome.key.remove.cancel" : {
+      "comment" : "Welcome, step 2 (API key): cancel button of the dialog that confirms removing a key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "welcome.key.remove.confirm" : {
+      "comment" : "Welcome, step 2 (API key): destructive button of the dialog that confirms removing a key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitar"
+          }
+        }
+      }
+    },
+    "welcome.key.remove.message" : {
+      "comment" : "Welcome, step 2 (API key): message of the dialog that confirms removing a key; the argument is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino can't use %@ until you add a key again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino no podrá usar %@ hasta que vuelvas a añadir una clave."
+          }
+        }
+      }
+    },
+    "welcome.key.remove.title" : {
+      "comment" : "Welcome, step 2 (API key): title of the dialog that confirms removing a key; the argument is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove the %@ key?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Quitar la clave de %@?"
+          }
+        }
+      }
+    },
+    "welcome.key.subtitle" : {
+      "comment" : "Welcome, step 2 (API key): subtitle saying why a key is needed",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino talks to Anthropic or OpenAI directly, with your own key. There's no Afino account and no server in between."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino habla directamente con Anthropic u OpenAI con tu propia clave. No hay cuenta de Afino ni ningún servidor de por medio."
+          }
+        }
+      }
+    },
+    "welcome.key.title" : {
+      "comment" : "Welcome, step 2 (API key): title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add your API key"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añade tu clave de API"
+          }
+        }
+      }
+    },
+    "welcome.key.useOther" : {
+      "comment" : "Welcome, step 2 (API key): button shown when the key looks like the other provider's; the argument is that provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use it with %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usarla con %@"
+          }
+        }
+      }
+    },
+    "welcome.keys.actions" : {
+      "comment" : "Welcome, step 4 (keys): label of the ⌘K row, which opens the list of actions",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All actions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todas las acciones"
+          }
+        }
+      }
+    },
+    "welcome.keys.clipboard" : {
+      "comment" : "Welcome, step 4 (keys): note under the list of keys",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When it finishes, the result is already on your clipboard."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al terminar, el resultado ya está en tu portapapeles."
+          }
+        }
+      }
+    },
+    "welcome.keys.close" : {
+      "comment" : "Welcome, step 4 (keys): label of the Esc row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
+          }
+        }
+      }
+    },
+    "welcome.keys.close.note" : {
+      "comment" : "Welcome, step 4 (keys): quiet note after “Close”, lowercase",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "your draft is kept"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tu borrador se guarda"
+          }
+        }
+      }
+    },
+    "welcome.keys.copyClose" : {
+      "comment" : "Welcome, step 4 (keys): label of the Return row once the result is in",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy & close"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar y cerrar"
+          }
+        }
+      }
+    },
+    "welcome.keys.footer" : {
+      "comment" : "Welcome, step 4 (keys): last note, next to the menu bar icon",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino lives in the menu bar. Every shortcut is listed in Settings › Shortcuts."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino vive en la barra de menús. Todos los atajos están en Ajustes › Atajos."
+          }
+        }
+      }
+    },
+    "welcome.keys.group.anywhere" : {
+      "comment" : "Welcome, step 4 (keys): heading of the keys that work at any moment in the panel",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anytime"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En todo momento"
+          }
+        }
+      }
+    },
+    "welcome.keys.group.result" : {
+      "comment" : "Welcome, step 4 (keys): heading of the keys that work once the result is in",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Result"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultado"
+          }
+        }
+      }
+    },
+    "welcome.keys.group.write" : {
+      "comment" : "Welcome, step 4 (keys): heading of the keys that work while writing a draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribir"
+          }
+        }
+      }
+    },
+    "welcome.keys.history" : {
+      "comment" : "Welcome, step 4 (keys): label of the ⌘Y row, which opens the history",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historial"
+          }
+        }
+      }
+    },
+    "welcome.keys.improve" : {
+      "comment" : "Welcome, step 4 (keys): label of the Return row while writing a draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improve"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejorar"
+          }
+        }
+      }
+    },
+    "welcome.keys.lastDraft" : {
+      "comment" : "Welcome, step 4 (keys): label of the Up Arrow row, which brings back the last draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your last draft"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu último borrador"
+          }
+        }
+      }
+    },
+    "welcome.keys.lastDraft.note" : {
+      "comment" : "Welcome, step 4 (keys): quiet note after “Your last draft”, lowercase: when Up Arrow does it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "in an empty field"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "con el campo vacío"
+          }
+        }
+      }
+    },
+    "welcome.keys.newLine" : {
+      "comment" : "Welcome, step 4 (keys): label of the Shift-Return row while writing a draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New line"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nueva línea"
+          }
+        }
+      }
+    },
+    "welcome.keys.nextTarget" : {
+      "comment" : "Welcome, step 4 (keys): label of the Tab row while writing a draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next target"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siguiente destino"
+          }
+        }
+      }
+    },
+    "welcome.keys.pickTarget" : {
+      "comment" : "Welcome, step 4 (keys): label of the ⌘1 to ⌘4 row while writing a draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a target"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegir destino"
+          }
+        }
+      }
+    },
+    "welcome.keys.refine" : {
+      "comment" : "Welcome, step 4 (keys): label of the row that refines a result: type an instruction, then Return",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refine it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refinarlo"
+          }
+        }
+      }
+    },
+    "welcome.keys.refine.sample" : {
+      "comment" : "Welcome, step 4 (keys): an example of a refine instruction, typed before Return; lowercase",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "shorter"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "más corto"
+          }
+        }
+      }
+    },
+    "welcome.keys.regenerate" : {
+      "comment" : "Welcome, step 4 (keys): label of the ⌘R row once the result is in",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regenerate"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regenerar"
+          }
+        }
+      }
+    },
+    "welcome.keys.subtitle" : {
+      "comment" : "Welcome, step 4 (keys): subtitle",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The panel shows each key as you go. These are the ones you'll use every day."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El panel te muestra cada tecla sobre la marcha. Estas son las que usarás cada día."
+          }
+        }
+      }
+    },
+    "welcome.keys.targetEngine" : {
+      "comment" : "Welcome, step 4 (keys): note under the list of keys saying that the target and the engine are different things",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The target is who the prompt is for; the engine that writes it is chosen in Settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El destino es para quién es el prompt; el motor que lo escribe se elige en Ajustes."
+          }
+        }
+      }
+    },
+    "welcome.keys.title" : {
+      "comment" : "Welcome, step 4 (keys): title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything from the keyboard"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo desde el teclado"
+          }
+        }
+      }
+    },
+    "welcome.keys.typed" : {
+      "comment" : "Welcome, step 4 (keys): something typed before a key, in quotation marks; the argument is what is typed",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“%@”"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«%@»"
+          }
+        }
+      }
+    },
+    "welcome.keys.versions" : {
+      "comment" : "Welcome, step 4 (keys): label of the ⌘[ and ⌘] row once the result is in",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switch versions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar de versión"
+          }
+        }
+      }
+    },
+    "welcome.progress" : {
+      "comment" : "Welcome footer: VoiceOver label of the progress marks; the arguments are the step's number and the number of steps",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Step %1$lld of %2$lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paso %1$lld de %2$lld"
+          }
+        }
+      }
+    },
+    "welcome.shortcut.change" : {
+      "comment" : "Welcome, step 3 (shortcut): title of the recorder row when there is a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prefer another shortcut?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Prefieres otro atajo?"
+          }
+        }
+      }
+    },
+    "welcome.shortcut.change.help" : {
+      "comment" : "Welcome, step 3 (shortcut): help under the recorder row's title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click the field, then press the keys you want."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haz clic en el campo y pulsa las teclas que quieras."
+          }
+        }
+      }
+    },
+    "welcome.shortcut.choose" : {
+      "comment" : "Welcome, step 3 (shortcut): title of the recorder row when there is no shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose your shortcut"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige tu atajo"
+          }
+        }
+      }
+    },
+    "welcome.shortcut.none.off" : {
+      "comment" : "Welcome, step 3 (shortcut): shown in place of the key caps when the user turned the shortcut off",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The shortcut is turned off. Choose one to open Afino from any app."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El atajo está desactivado. Elige uno para abrir Afino desde cualquier app."
+          }
+        }
+      }
+    },
+    "welcome.shortcut.none.refused" : {
+      "comment" : "Welcome, step 3 (shortcut): shown in place of the key caps when macOS refused the stored shortcut; the argument is that shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS didn't accept %@. Choose another one."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS no ha aceptado %@. Elige otro."
+          }
+        }
+      }
+    },
+    "welcome.shortcut.none.taken" : {
+      "comment" : "Welcome, step 3 (shortcut): shown in place of the key caps when both default shortcuts are taken; the arguments are ⌃⌥P and ⌃⌥⌘P",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other apps already use %1$@ and %2$@. Choose one you'll remember."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otras apps ya usan %1$@ y %2$@. Elige uno que vayas a recordar."
+          }
+        }
+      }
+    },
+    "welcome.shortcut.spoken" : {
+      "comment" : "Welcome, step 3 (shortcut): VoiceOver label of the large key caps; the argument is the keys in words",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your shortcut: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu atajo: %@"
+          }
+        }
+      }
+    },
+    "welcome.shortcut.subtitle" : {
+      "comment" : "Welcome, step 3 (shortcut): subtitle saying what the shortcut is for",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wherever you're writing, one shortcut brings up the panel."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estés donde estés escribiendo, un atajo abre el panel."
+          }
+        }
+      }
+    },
+    "welcome.shortcut.success" : {
+      "comment" : "Welcome, step 3 (shortcut): shown, and spoken by VoiceOver, when the user presses the shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's it — it works from any app."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Eso es! Funciona desde cualquier app."
+          }
+        }
+      }
+    },
+    "welcome.shortcut.title" : {
+      "comment" : "Welcome, step 3 (shortcut): title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open it from any app"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ábrelo desde cualquier app"
+          }
+        }
+      }
+    },
+    "welcome.shortcut.try" : {
+      "comment" : "Welcome, step 3 (shortcut): under the large key caps; the argument is the shortcut, such as ⌃⌥P",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try it now: press %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pruébalo ahora: pulsa %@"
+          }
+        }
+      }
+    },
+    "welcome.skip" : {
+      "comment" : "Welcome, top right: link that leaves the welcome",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omitir"
+          }
+        }
+      }
+    },
+    "welcome.skip.hint" : {
+      "comment" : "Welcome, top right: VoiceOver hint of Skip",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Closes the welcome. You can open it again from Settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cierra la bienvenida. Puedes volver a abrirla desde Ajustes."
+          }
+        }
+      }
+    },
+    "welcome.spoken.command" : {
+      "comment" : "Welcome: name of the Command key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Command"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comando"
+          }
+        }
+      }
+    },
+    "welcome.spoken.control" : {
+      "comment" : "Welcome: name of the Control key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control"
+          }
+        }
+      }
+    },
+    "welcome.spoken.delete" : {
+      "comment" : "Welcome: name of the Delete key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar"
+          }
+        }
+      }
+    },
+    "welcome.spoken.down" : {
+      "comment" : "Welcome: name of the Down Arrow key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Down Arrow"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flecha abajo"
+          }
+        }
+      }
+    },
+    "welcome.spoken.escape" : {
+      "comment" : "Welcome: name of the Escape key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escape"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escape"
+          }
+        }
+      }
+    },
+    "welcome.spoken.left" : {
+      "comment" : "Welcome: name of the Left Arrow key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Left Arrow"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flecha izquierda"
+          }
+        }
+      }
+    },
+    "welcome.spoken.option" : {
+      "comment" : "Welcome: name of the Option key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Option"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opción"
+          }
+        }
+      }
+    },
+    "welcome.spoken.pair" : {
+      "comment" : "Welcome, step 4 (keys): VoiceOver reading of two shortcuts that go together; the arguments are the two shortcuts in words",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ or %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ o %2$@"
+          }
+        }
+      }
+    },
+    "welcome.spoken.range" : {
+      "comment" : "Welcome, step 4 (keys): VoiceOver reading of a range of shortcuts; the arguments are the first and the last in words",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ to %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "de %1$@ a %2$@"
+          }
+        }
+      }
+    },
+    "welcome.spoken.return" : {
+      "comment" : "Welcome: name of the Return key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Return"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retorno"
+          }
+        }
+      }
+    },
+    "welcome.spoken.right" : {
+      "comment" : "Welcome: name of the Right Arrow key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Right Arrow"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flecha derecha"
+          }
+        }
+      }
+    },
+    "welcome.spoken.row" : {
+      "comment" : "Welcome, step 4 (keys): VoiceOver reading of one row; the arguments are what it does and its keys",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@: %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@: %2$@"
+          }
+        }
+      }
+    },
+    "welcome.spoken.shift" : {
+      "comment" : "Welcome: name of the Shift key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shift"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mayúsculas"
+          }
+        }
+      }
+    },
+    "welcome.spoken.space" : {
+      "comment" : "Welcome: name of the Space bar, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Space"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espacio"
+          }
+        }
+      }
+    },
+    "welcome.spoken.tab" : {
+      "comment" : "Welcome: name of the Tab key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tab"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tabulador"
+          }
+        }
+      }
+    },
+    "welcome.spoken.typed" : {
+      "comment" : "Welcome, step 4 (keys): VoiceOver reading of typing something, then pressing a key; the arguments are what is typed and the key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "type “%1$@”, then %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "escribe «%1$@» y pulsa %2$@"
+          }
+        }
+      }
+    },
+    "welcome.spoken.up" : {
+      "comment" : "Welcome: name of the Up Arrow key, read by VoiceOver in a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up Arrow"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flecha arriba"
+          }
+        }
+      }
+    },
+    "welcome.start" : {
+      "comment" : "Welcome footer on the last step: accent button that closes the welcome and opens the panel",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empezar"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

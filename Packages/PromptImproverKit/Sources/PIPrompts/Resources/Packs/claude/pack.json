@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "claude",
+  "displayName": "Claude",
+  "vendorFamily": "anthropic",
+  "promptLabel": "Claude (Anthropic)",
+  "coversModels": "Claude 5 family: Fable 5.x, Opus 5.x, Sonnet 5.x, Haiku 5.5",
+  "monogram": "Cl",
+  "sortOrder": 1,
+  "sources": [
+    {
+      "title": "Prompting best practices",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices",
+      "retrievedOn": "2026-11-21"
+    },
+    {
+      "title": "Prompting Claude Fable 5.2",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
+      "retrievedOn": "2026-11-21"
+    },
+    {
+      "title": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "retrievedOn": "2026-11-21"
+    },
+    {
+      "title": "Prompting Claude Sonnet 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-sonnet-5-5",
+      "retrievedOn": "2026-11-21"
+    }
+  ],
+  "packVersion": "2026.11.1",
+  "reviewedOn": "2026-11-21"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "img-en",
+  "title": "English image-generation request with an aspect ratio",
+  "draft": "cinematic photo of a lighthouse in a storm, 16:9",
+  "target": "generic",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "16:9",
+    "lighthouse"
+  ],
+  "inSmoke": false,
+  "notes": "An image prompt describes the picture and keeps the subject and the 16:9 aspect ratio."
+}

@@ -1,0 +1,15 @@
+event: response.created
+data: {"type":"response.created","response":{"id":"resp_cut","object":"response","status":"in_progress","model":"gpt-6-luna","output":[],"usage":null},"sequence_number":0}
+
+event: response.output_item.added
+data: {"type":"response.output_item.added","output_index":0,"item":{"id":"msg_cut","status":"in_progress","type":"message","role":"assistant","content":[]},"sequence_number":1}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","item_id":"msg_cut","output_index":0,"content_index":0,"delta":"You are reviewing a pull request. Check","logprobs":[],"sequence_number":2}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","item_id":"msg_cut","output_index":0,"content_index":0,"delta":" each changed file for","logprobs":[],"sequence_number":3}
+
+event: response.incomplete
+data: {"type":"response.incomplete","response":{"id":"resp_cut","object":"response","status":"incomplete","error":null,"incomplete_details":{"reason":"max_output_tokens"},"model":"gpt-6-luna","output":[],"usage":{"input_tokens":2048,"output_tokens":16000,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":18048}},"sequence_number":4}
+

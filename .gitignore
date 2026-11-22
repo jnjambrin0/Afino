@@ -1,0 +1,27 @@
+# Build output (scripts/build.sh, the release pipeline, prompt-eval, design/ scripts)
+/build/
+.build/
+.build-*/
+.swiftpm/
+
+# The local copy of the update feed and the release pipeline's state (scripts/release/)
+/updates/
+/scripts/release/.release-state.env
+
+# Xcode and editors
+xcuserdata/
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets never belong in the repository
+.env
+
+# Local assistant and tool files
+.claude/
+/CLAUDE.md
+/AGENTS.md
+.cursor/
+.cursorrules*
+.playwright-mcp/
+/tasks/

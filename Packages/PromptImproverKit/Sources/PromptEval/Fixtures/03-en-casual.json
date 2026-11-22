@@ -1,0 +1,16 @@
+{
+  "id": "en-casual",
+  "title": "Casual English explanation request",
+  "draft": "explain kubernetes to me like im a backend dev who's only used heroku",
+  "target": "gpt",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "Heroku",
+    "Kubernetes"
+  ],
+  "length": {
+    "maxWords": 160
+  },
+  "inSmoke": true,
+  "notes": "A casual one-line ask becomes a few clear sentences, not a specification, and keeps both Kubernetes and Heroku."
+}

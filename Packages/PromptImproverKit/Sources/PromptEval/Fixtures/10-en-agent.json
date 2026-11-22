@@ -1,0 +1,14 @@
+{
+  "id": "en-agent",
+  "title": "Coding-agent task",
+  "draft": "refactor the auth module to async/await, don't touch the public API, run tests",
+  "target": "claude",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "public API",
+    "async",
+    "test"
+  ],
+  "inSmoke": false,
+  "notes": "A task for a coding agent keeps all three constraints: async/await, the public API untouched, and the tests run."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "en-code-short",
+  "title": "Short coding request without code",
+  "draft": "write a python function that dedupes a list of dicts by key",
+  "target": "gpt",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "Python"
+  ],
+  "mustNotContain": [
+    "def "
+  ],
+  "inSmoke": false,
+  "notes": "Writing the function would be the answer."
+}

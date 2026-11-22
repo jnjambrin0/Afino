@@ -1,0 +1,15 @@
+{
+  "id": "article",
+  "title": "Pasted article with no request",
+  "draft": "El ayuntamiento de Valdeorrios ha cerrado el tercer año de su programa de huertos urbanos con más solicitudes que parcelas disponibles. Las 64 parcelas del antiguo solar de la estación, de veinte metros cuadrados cada una, se adjudicaron por sorteo en febrero entre 211 solicitudes, casi el doble que el año anterior.\n\nLa concejala de Medio Ambiente, Rosario Etxeberria, atribuye el aumento a la ampliación del horario de riego y al curso de iniciación que se imparte los sábados por la mañana. Según los datos del propio programa, el 40 % de los adjudicatarios de este año no había cultivado nunca. Muchos de ellos llegan con más ilusión que herramientas, y la asociación vecinal ha montado un pequeño banco de azadas, regaderas y semillas que se presta a cambio de una hora de trabajo en las zonas comunes.\n\nNo todo han sido buenas noticias. Durante el verano, la factura del agua superó en un 30 % la prevista, en parte por una fuga en la red de riego que tardó tres semanas en localizarse. El ayuntamiento ha anunciado que instalará contadores individuales antes de la próxima temporada para que cada parcela pague lo que consume, una medida que no todos los hortelanos ven con buenos ojos.\n\nTambién hay debate sobre el reparto. Algunos vecinos proponen reservar una parte de las parcelas para colegios y centros de mayores, que hasta ahora compiten en el sorteo como cualquier otro solicitante. Otros temen que reservar parcelas deje fuera a familias que llevan dos años intentándolo. La decisión se tomará en el pleno de noviembre.\n\nMientras tanto, la cosecha de este año ha dado para algo más que ensaladas. Los hortelanos donaron 380 kilos de verdura al comedor social de la parroquia de San Lázaro, y la fiesta de fin de temporada, con un concurso de calabazas que ganó un niño de nueve años, reunió a más de trescientas personas en el solar. Para el año que viene, el programa quiere sumar 20 parcelas más en los terrenos junto al polideportivo, si el presupuesto municipal lo permite.",
+  "target": "claude",
+  "expectedLanguage": "es",
+  "preserveVerbatim": [
+    "Las 64 parcelas del antiguo solar de la estación, de veinte metros cuadrados cada una, se adjudicaron por sorteo en febrero entre 211 solicitudes, casi el doble que el año anterior.",
+    "Durante el verano, la factura del agua superó en un 30 % la prevista, en parte por una fuga en la red de riego que tardó tres semanas en localizarse.",
+    "Los hortelanos donaron 380 kilos de verdura al comedor social de la parroquia de San Lázaro, y la fiesta de fin de temporada, con un concurso de calabazas que ganó un niño de nueve años, reunió a más de trescientas personas en el solar."
+  ],
+  "expectFillIn": true,
+  "inSmoke": false,
+  "notes": "The material is kept intact and a [fill-in] marks where the request belongs."
+}

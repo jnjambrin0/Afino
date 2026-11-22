@@ -1,0 +1,95 @@
+name: Bug report
+description: Something in Afino does not work as it should.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. A short, exact way to reproduce the problem is the most useful thing you can give.
+
+        **Never paste an API key** in an issue. Security problems go through [a private report](https://github.com/jnjambrin0/Afino/security/advisories/new) instead.
+
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before you file
+      options:
+        - label: I searched the existing issues, including closed ones.
+          required: true
+        - label: I am on the latest version (Settings › About › Check for Updates), or on the latest `main` if I build from source.
+          required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+      placeholder: After pressing Return on a draft, the panel shows … instead of …
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Press ⌃⌥P
+        2. Paste …
+        3. Press Return
+        4. …
+    validations:
+      required: true
+
+  - type: input
+    id: afino_version
+    attributes:
+      label: Afino version
+      description: As Settings › About shows it, or the commit if you build from source.
+      placeholder: Version 1.0.1 (8)
+    validations:
+      required: true
+
+  - type: input
+    id: macos_version
+    attributes:
+      label: macOS version
+      placeholder: macOS 26.1
+    validations:
+      required: true
+
+  - type: dropdown
+    id: engine_provider
+    attributes:
+      label: Engine provider
+      description: Settings › Engine.
+      options:
+        - Anthropic
+        - OpenAI
+        - Not sure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: engine_preset
+    attributes:
+      label: Preset
+      options:
+        - Balanced
+        - Fast
+        - Quality
+        - Custom
+        - Not sure
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Error and details
+      description: The message the panel showed, and the text from ⌘K › Copy Details if the panel offers it. Leave out any draft or result you would not want public.
+      render: text
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Anything else
+      description: Screenshots, a recording, log lines, or anything else that helps.

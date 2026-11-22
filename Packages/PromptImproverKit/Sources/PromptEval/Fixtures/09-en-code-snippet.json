@@ -1,0 +1,16 @@
+{
+  "id": "en-code-snippet",
+  "title": "Swift snippet with a crash question",
+  "draft": "```swift\nstruct ReadingSummary {\n    let minimum: Double\n    let maximum: Double\n    let mean: Double\n    let largestJump: Double\n}\n\nfunc summarize(_ readings: [Double]) -> ReadingSummary {\n    var minimum = readings[0]\n    var maximum = readings[0]\n    var total = 0.0\n    var largestJump = 0.0\n\n    for index in 0..<readings.count {\n        let value = readings[index]\n        minimum = min(minimum, value)\n        maximum = max(maximum, value)\n        total += value\n        if index > 0 {\n            largestJump = max(largestJump, abs(value - readings[index - 1]))\n        }\n    }\n\n    return ReadingSummary(minimum: minimum, maximum: maximum,\n                          mean: total / Double(readings.count), largestJump: largestJump)\n}\n```\n\nwhy does this crash on empty arrays, fix it",
+  "target": "claude",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "empty"
+  ],
+  "preserveVerbatim": [
+    "struct ReadingSummary {\n    let minimum: Double\n    let maximum: Double\n    let mean: Double\n    let largestJump: Double\n}\n\nfunc summarize(_ readings: [Double]) -> ReadingSummary {\n    var minimum = readings[0]\n    var maximum = readings[0]\n    var total = 0.0\n    var largestJump = 0.0\n\n    for index in 0..<readings.count {\n        let value = readings[index]\n        minimum = min(minimum, value)\n        maximum = max(maximum, value)\n        total += value\n        if index > 0 {\n            largestJump = max(largestJump, abs(value - readings[index - 1]))\n        }\n    }\n\n    return ReadingSummary(minimum: minimum, maximum: maximum,\n                          mean: total / Double(readings.count), largestJump: largestJump)\n}"
+  ],
+  "codeBlocks": 1,
+  "inSmoke": true,
+  "notes": "The snippet must come back byte for byte, in exactly one code block."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "es-mixed",
+  "title": "Spanish request for a bash script with English terms",
+  "draft": "hazme un script en bash que haga backup de ~/Documents a S3, con retry",
+  "target": "generic",
+  "expectedLanguage": "es",
+  "mustContain": [
+    "~/Documents",
+    "S3",
+    "bash"
+  ],
+  "mustNotContain": [
+    "#!/"
+  ],
+  "inSmoke": false,
+  "notes": "A shebang means the engine wrote the script."
+}

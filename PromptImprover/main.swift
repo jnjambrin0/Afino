@@ -1,0 +1,3 @@
+import PIApp
+
+PromptImproverApplication.main()

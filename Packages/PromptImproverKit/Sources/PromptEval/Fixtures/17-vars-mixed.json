@@ -1,0 +1,15 @@
+{
+  "id": "vars-mixed",
+  "title": "Template with {input}, $LANG, %s and <<CONTEXT>>",
+  "draft": "Translate the following support macro into $LANG. Keep product names in English and keep the placeholder %s exactly where the customer's name goes.\n\nBackground the translator may need:\n<<CONTEXT>>\n\nMacro:\n{input}",
+  "target": "generic",
+  "expectedLanguage": "en",
+  "preserveVerbatim": [
+    "{input}",
+    "$LANG",
+    "%s",
+    "<<CONTEXT>>"
+  ],
+  "inSmoke": false,
+  "notes": "Each template syntax ({input}, $LANG, %s, <<CONTEXT>>) belongs to the person's tooling and survives character for character."
+}

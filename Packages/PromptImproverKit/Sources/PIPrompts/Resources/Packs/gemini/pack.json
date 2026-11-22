@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "gemini",
+  "displayName": "Gemini",
+  "vendorFamily": "google",
+  "promptLabel": "Gemini (Google)",
+  "coversModels": "Gemini 3.x and Gemini 4",
+  "monogram": "Ge",
+  "sortOrder": 3,
+  "sources": [
+    {
+      "title": "Prompt design strategies",
+      "url": "https://aistudio.google.com/docs/prompting-strategies",
+      "retrievedOn": "2026-11-21"
+    },
+    {
+      "title": "What's new in Gemini 4 Carbon",
+      "url": "https://aistudio.google.com/docs/whats-new-gemini-4-carbon",
+      "retrievedOn": "2026-11-21"
+    }
+  ],
+  "packVersion": "2026.11.1",
+  "reviewedOn": "2026-11-21"
+}

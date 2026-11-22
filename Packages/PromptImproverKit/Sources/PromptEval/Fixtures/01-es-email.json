@@ -1,0 +1,20 @@
+{
+  "id": "es-email",
+  "title": "Spanish one-liner asking for an email to the landlord",
+  "draft": "escríbeme un correo para pedirle a mi casero que arregle la caldera",
+  "target": "claude",
+  "expectedLanguage": "es",
+  "mustContain": [
+    "caldera"
+  ],
+  "mustNotMatch": [
+    "(?im)^\\s*(hola|estimad[oa]s?|querid[oa]s?|buen[oa]s (días|tardes))\\b[^\\n]{0,40},\\s*$",
+    "(?im)^\\s*(un saludo|saludos( cordiales)?|atentamente|un abrazo|gracias de antemano|muchas gracias)[,.!]?\\s*$",
+    "(?im)^\\s*\\**asunto\\**\\s*:"
+  ],
+  "length": {
+    "maxWords": 160
+  },
+  "inSmoke": true,
+  "notes": "The engine must write a prompt for the email, not the email: no salutation, sign-off or subject line."
+}

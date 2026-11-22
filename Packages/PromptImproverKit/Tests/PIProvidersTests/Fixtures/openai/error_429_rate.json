@@ -1,0 +1,1 @@
+{"error":{"message":"Rate limit reached for gpt-6.2-sol in organization org-0000 on requests per min (RPM): Limit 500, Used 500, Requested 1. Please try again in 120ms.","type":"requests","param":null,"code":"rate_limit_exceeded"}}

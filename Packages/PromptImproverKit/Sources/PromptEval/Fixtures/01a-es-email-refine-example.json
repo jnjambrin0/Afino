@@ -1,0 +1,15 @@
+{
+  "id": "es-email-refine-example",
+  "title": "Refinement: \"añade un ejemplo\" on es-email",
+  "variantOf": "es-email",
+  "expectedLanguage": "es",
+  "refine": "añade un ejemplo",
+  "mustContain": [
+    "caldera"
+  ],
+  "length": {
+    "longerThanPreviousBy": 0.05
+  },
+  "inSmoke": false,
+  "notes": "The revision adds an example, so it grows by at least 5 %. An example may legitimately contain a salutation, so the email-line rules of es-email do not apply."
+}

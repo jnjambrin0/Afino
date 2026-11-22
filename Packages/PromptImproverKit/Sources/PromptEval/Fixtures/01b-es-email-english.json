@@ -1,0 +1,25 @@
+{
+  "id": "es-email-english",
+  "title": "Preference: always English, on es-email",
+  "variantOf": "es-email",
+  "expectedLanguage": "en",
+  "preferences": {
+    "language": "english"
+  },
+  "mustContain": [
+    "Spanish"
+  ],
+  "mustNotMatch": [
+    "(?im)^\\s*(hola|estimad[oa]s?|querid[oa]s?|buen[oa]s (días|tardes))\\b[^\\n]{0,40},\\s*$",
+    "(?im)^\\s*(un saludo|saludos( cordiales)?|atentamente|un abrazo|gracias de antemano|muchas gracias)[,.!]?\\s*$",
+    "(?im)^\\s*(dear|hi|hello)\\b[^\\n]{0,40},\\s*$",
+    "(?im)^\\s*(best( regards)?|kind regards|regards|thanks|many thanks|cheers|sincerely)[,.!]?\\s*$",
+    "(?im)^\\s*\\**asunto\\**\\s*:",
+    "(?im)^\\s*\\**subject\\**\\s*:"
+  ],
+  "length": {
+    "maxWords": 160
+  },
+  "inSmoke": false,
+  "notes": "With the English preference the prompt is in English and asks for the email in Spanish."
+}

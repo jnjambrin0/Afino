@@ -1,0 +1,12 @@
+{
+  "id": "minimal-qq",
+  "title": "Minimal input: two question marks",
+  "draft": "??",
+  "target": "generic",
+  "expectedLanguage": "und",
+  "length": {
+    "maxWords": 60
+  },
+  "inSmoke": false,
+  "notes": "Any short, clean reply passes; the language is not checked."
+}

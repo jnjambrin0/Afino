@@ -1,0 +1,12 @@
+{
+  "id": "minimal-poema",
+  "title": "Minimal input: one Spanish word",
+  "draft": "poema",
+  "target": "gpt",
+  "expectedLanguage": "es",
+  "length": {
+    "maxWords": 60
+  },
+  "inSmoke": false,
+  "notes": "A one-word draft gets a short Spanish prompt asking for a poem, not the poem itself."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "es-ideas",
+  "title": "Spanish one-liner asking for birthday ideas",
+  "draft": "ideas para el cumpleaños de mi madre, 60 años, le gusta la jardinería",
+  "target": "gpt",
+  "expectedLanguage": "es",
+  "mustContain": [
+    "60",
+    "jardinería"
+  ],
+  "maxListItems": 4,
+  "inSmoke": false,
+  "notes": "A list of ideas would be the answer; the prompt may list a few facts at most."
+}

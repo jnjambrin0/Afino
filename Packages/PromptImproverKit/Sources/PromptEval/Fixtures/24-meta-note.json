@@ -1,0 +1,21 @@
+{
+  "id": "meta-note",
+  "title": "A note to the tool: improve and shorten the embedded prompt",
+  "draft": "mejora este prompt y que quede más corto: Eres un asistente experto en nutrición deportiva con muchos años de experiencia ayudando a corredores aficionados. Tu tarea es ayudarme a planificar lo que como durante la semana, teniendo en cuenta que estoy entrenando para una media maratón que corro dentro de diez semanas. Es muy importante que tengas en cuenta que soy intolerante a la lactosa, es decir, que no puedo tomar leche ni derivados lácteos que lleven lactosa. Entreno cuatro días a la semana, martes, jueves, sábado y domingo, y el domingo hago la tirada larga. Quiero que me propongas un menú para cada día con desayuno, comida, merienda y cena, y que me expliques brevemente por qué cada comida encaja con el entrenamiento de ese día. Por favor, que sea práctico y fácil.",
+  "target": "gemini",
+  "expectedLanguage": "es",
+  "mustContain": [
+    "lactosa",
+    "maratón",
+    "domingo"
+  ],
+  "mustNotContain": [
+    "mejora este prompt",
+    "más corto"
+  ],
+  "length": {
+    "maxWords": 125
+  },
+  "inSmoke": false,
+  "notes": "The note is applied, not repeated: the result is shorter than the embedded prompt (126 words)."
+}

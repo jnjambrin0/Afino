@@ -1,0 +1,2280 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "action.actions" : {
+      "comment" : "VoiceOver name of the ⌘K footer hint and of the ⌘K menu; also a row in Settings › Shortcuts",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acciones"
+          }
+        }
+      }
+    },
+    "action.copy" : {
+      "comment" : "⌘K menu item, footer hint and Settings › Shortcuts row: copies the result",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar"
+          }
+        }
+      }
+    },
+    "action.copyClose" : {
+      "comment" : "Panel footer's main button on a result, ⌘K menu item and Settings › Shortcuts row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy & Close"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar y cerrar"
+          }
+        }
+      }
+    },
+    "action.copyDetails" : {
+      "comment" : "⌘K menu item after a failure: copies the provider, model, request ID and error",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Details"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar detalles"
+          }
+        }
+      }
+    },
+    "action.customInstructions" : {
+      "comment" : "⌘K menu item: opens Settings at the custom instructions",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Instructions…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instrucciones propias…"
+          }
+        }
+      }
+    },
+    "action.edit" : {
+      "comment" : "Panel footer's main button and footer hint after a failure: back to the draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar"
+          }
+        }
+      }
+    },
+    "action.editOriginal" : {
+      "comment" : "⌘K menu item and Settings › Shortcuts row: back to the draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Original"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar original"
+          }
+        }
+      }
+    },
+    "action.hideOriginal" : {
+      "comment" : "⌘K menu item and VoiceOver hint of the result header: collapses the original draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Original"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar original"
+          }
+        }
+      }
+    },
+    "action.history" : {
+      "comment" : "⌘K menu item, footer hint and Settings › Shortcuts row: opens the list of past improvements",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historial"
+          }
+        }
+      }
+    },
+    "action.improve" : {
+      "comment" : "Panel footer's main button while composing, and Settings › Shortcuts row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improve"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejorar"
+          }
+        }
+      }
+    },
+    "action.jumpToEnd" : {
+      "comment" : "Settings › Shortcuts row: scrolls the result back to its latest text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jump to End"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ir al final"
+          }
+        }
+      }
+    },
+    "action.newPrompt" : {
+      "comment" : "⌘K menu item and Settings › Shortcuts row: starts over with an empty draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Prompt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuevo prompt"
+          }
+        }
+      }
+    },
+    "action.openSettings" : {
+      "comment" : "Panel footer's main button after a failure about the key or the model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Ajustes"
+          }
+        }
+      }
+    },
+    "action.refine" : {
+      "comment" : "Panel footer's main button on a result while the refine field has text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refine"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refinar"
+          }
+        }
+      }
+    },
+    "action.regenerate" : {
+      "comment" : "⌘K menu item and Settings › Shortcuts row: sends the same request again",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regenerate"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regenerar"
+          }
+        }
+      }
+    },
+    "action.rewriteFor" : {
+      "comment" : "Panel footer's main button after the target changed; %@ is the target's name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rewrite for %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reescribir para %@"
+          }
+        }
+      }
+    },
+    "action.settings" : {
+      "comment" : "⌘K menu item and Settings › Shortcuts row: opens Settings",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes…"
+          }
+        }
+      }
+    },
+    "action.showOriginal" : {
+      "comment" : "⌘K menu item, VoiceOver hint of the result header and Settings › Shortcuts row: expands the original draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Original"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver original"
+          }
+        }
+      }
+    },
+    "action.stop" : {
+      "comment" : "Panel footer button and ⌘K menu item while a run is in progress",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener"
+          }
+        }
+      }
+    },
+    "action.tryAgain" : {
+      "comment" : "Panel footer's main button and ⌘K menu item after a failure or a stop",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try Again"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar"
+          }
+        }
+      }
+    },
+    "action.undo" : {
+      "comment" : "Button in the toast shown after a history entry is deleted",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deshacer"
+          }
+        }
+      }
+    },
+    "ax.done" : {
+      "comment" : "VoiceOver announcement when a run finishes; %d is the result's word count",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved prompt ready and copied. %d words."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompt mejorado listo y copiado. %d palabras."
+          }
+        }
+      }
+    },
+    "ax.improvingFor" : {
+      "comment" : "VoiceOver announcement when a run starts; %@ is the target's name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improving for %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejorando para %@"
+          }
+        }
+      }
+    },
+    "ax.original" : {
+      "comment" : "VoiceOver label of the original draft in the result header",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Original draft"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrador original"
+          }
+        }
+      }
+    },
+    "ax.result" : {
+      "comment" : "VoiceOver label of the result text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved prompt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompt mejorado"
+          }
+        }
+      }
+    },
+    "compose.longDraft" : {
+      "comment" : "Panel footer note when the draft is over the soft length limit",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long draft — this will take longer."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrador largo: tardará un poco más."
+          }
+        }
+      }
+    },
+    "compose.placeholder" : {
+      "comment" : "Placeholder of the panel's compose input",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Describe what you want, or paste a prompt…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Describe lo que quieres o pega un prompt…"
+          }
+        }
+      }
+    },
+    "details.error" : {
+      "comment" : "Line of the text Copy Details puts on the clipboard; %@ is the error's case",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error: %@"
+          }
+        }
+      }
+    },
+    "details.model" : {
+      "comment" : "Line of the text Copy Details puts on the clipboard; %@ is the model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modelo: %@"
+          }
+        }
+      }
+    },
+    "details.none" : {
+      "comment" : "Copy Details: stands in for a missing request ID",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "none"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ninguno"
+          }
+        }
+      }
+    },
+    "details.provider" : {
+      "comment" : "Line of the text Copy Details puts on the clipboard; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provider: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proveedor: %@"
+          }
+        }
+      }
+    },
+    "details.request" : {
+      "comment" : "Line of the text Copy Details puts on the clipboard; %@ is the request ID",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request ID: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID de petición: %@"
+          }
+        }
+      }
+    },
+    "error.contextTooLong" : {
+      "comment" : "Panel, after a failure: the request is too long for the model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This draft is too long for the model. Shorten it and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este borrador es demasiado largo para el modelo. Acórtalo y vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.dropped" : {
+      "comment" : "Panel notice under the kept text: the connection dropped after part of the result arrived",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The connection dropped mid-answer. Try again for the full prompt."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión se cortó a mitad. Reintenta para obtener el prompt completo."
+          }
+        }
+      }
+    },
+    "error.droppedEarly" : {
+      "comment" : "Panel, after a failure: the connection dropped before any text arrived",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The connection dropped before any answer. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión se cortó antes de recibir respuesta. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.emptyOutput" : {
+      "comment" : "Panel, after a failure: the model answered with nothing",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The model sent back an empty answer. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El modelo ha devuelto una respuesta vacía. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.generic" : {
+      "comment" : "Panel, after a failure: any failure without a more specific line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something went wrong. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algo ha fallado. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.invalidKey" : {
+      "comment" : "Panel, after a failure: the provider rejected the API key; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ rejected your API key. Check it in Settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ha rechazado tu clave de API. Revísala en Ajustes."
+          }
+        }
+      }
+    },
+    "error.invalidRequest" : {
+      "comment" : "Panel, after a failure: the provider refused the request; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ couldn't accept this request. Edit the draft and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no ha aceptado la petición. Edita el borrador y vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.malformed" : {
+      "comment" : "Panel, after a failure: the provider's answer could not be read; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ sent an answer that couldn't be read. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ha enviado una respuesta que no se ha podido leer. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.modelUnavailable" : {
+      "comment" : "Panel, after a failure: the key cannot use the chosen model; %@ is the model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your key can't use %@. Choose another model in Settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu clave no puede usar %@. Elige otro modelo en Ajustes."
+          }
+        }
+      }
+    },
+    "error.noCredit" : {
+      "comment" : "Panel, after a failure: the provider account is out of credit; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your %@ account is out of credit. Add credit and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu cuenta de %@ no tiene saldo. Añade saldo y vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.noKey" : {
+      "comment" : "Panel, after a failure: no API key is stored; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There's no API key for %@. Add one in Settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falta la clave de API de %@. Añádela en Ajustes."
+          }
+        }
+      }
+    },
+    "error.offline" : {
+      "comment" : "Panel, after a failure: there is no network connection",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You're offline. Check your connection and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay conexión. Comprueba tu red y vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.overloaded" : {
+      "comment" : "Panel, after a failure: the provider is overloaded; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is overloaded right now. Try again in a moment."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ está saturado ahora mismo. Reintenta en un momento."
+          }
+        }
+      }
+    },
+    "error.permissionDenied" : {
+      "comment" : "Panel, after a failure: the key lacks permission; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your %@ key isn't allowed to do this. Check its permissions, then try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu clave de %@ no tiene permiso para esto. Revisa sus permisos y vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.rateLimited" : {
+      "comment" : "Panel, after a failure: rate limited with a wait; %d is the seconds left, counting down",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate limit reached. Try again in %d s."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Has alcanzado el límite de peticiones. Reintenta en %d s."
+          }
+        }
+      }
+    },
+    "error.rateLimitedNow" : {
+      "comment" : "Panel, after a failure: rate limited with no wait, or the wait is over",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate limit reached. Try again now, or pick another engine with ⌘K."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Has alcanzado el límite de peticiones. Reintenta ahora o elige otro motor con ⌘K."
+          }
+        }
+      }
+    },
+    "error.refusal" : {
+      "comment" : "Panel, after a failure: the model declined to rewrite the draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The model declined to rewrite this. Rephrase it and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El modelo no ha querido reescribir esto. Reformúlalo y vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.secureConnection" : {
+      "comment" : "Panel, after a failure: a secure (TLS) connection could not be made",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A secure connection couldn't be made. Check your network and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo establecer una conexión segura. Comprueba tu red y vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.serverError" : {
+      "comment" : "Panel, after a failure: the provider had a server error; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ had a server error. Try again in a moment."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ha tenido un error en el servidor. Reintenta en un momento."
+          }
+        }
+      }
+    },
+    "error.theProvider" : {
+      "comment" : "Panel, after a failure: stands in for an unknown provider at the start of a sentence",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The provider"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El proveedor"
+          }
+        }
+      }
+    },
+    "error.timeout" : {
+      "comment" : "Panel, after a failure: no response in time; %d is the seconds waited",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No response after %d s. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin respuesta tras %d s. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "error.tooLong" : {
+      "comment" : "Panel footer note when the draft is over the hard length limit",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Draft is too long (30,000 characters max). Trim it or improve it in sections."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El borrador es demasiado largo (máx. 30.000 caracteres). Recórtalo o mejóralo por partes."
+          }
+        }
+      }
+    },
+    "error.truncated" : {
+      "comment" : "Panel notice under the kept text: the result was cut off at the length limit",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The result was cut off at the length limit. Copy what's here or try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El resultado se cortó al llegar al límite de longitud. Copia lo que hay o reintenta."
+          }
+        }
+      }
+    },
+    "error.truncatedEmpty" : {
+      "comment" : "Panel, after a failure: cut off at the length limit before any text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The model hit its length limit before writing anything. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El modelo llegó a su límite de longitud antes de escribir nada. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "hint.back" : {
+      "comment" : "History footer hint: leaves the history list",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        }
+      }
+    },
+    "hint.delete" : {
+      "comment" : "History footer hint: deletes the selected entry",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar"
+          }
+        }
+      }
+    },
+    "hint.newLine" : {
+      "comment" : "Panel footer hint for ⇧Return while composing, and Settings › Shortcuts row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New line"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nueva línea"
+          }
+        }
+      }
+    },
+    "hint.open" : {
+      "comment" : "History footer hint: opens the selected entry",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir"
+          }
+        }
+      }
+    },
+    "history.count %lld" : {
+      "comment" : "History footer: the number of entries",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld improvement"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld improvements"
+                }
+              }
+            }
+          }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld mejora"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld mejoras"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "history.deleted" : {
+      "comment" : "History: toast shown after an entry is deleted",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improvement deleted"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejora eliminada"
+          }
+        }
+      }
+    },
+    "history.empty" : {
+      "comment" : "History: shown when there are no entries",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No improvements yet."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todavía no hay mejoras."
+          }
+        }
+      }
+    },
+    "history.filterPlaceholder" : {
+      "comment" : "History: placeholder and VoiceOver label of the search field",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search improvements"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar mejoras"
+          }
+        }
+      }
+    },
+    "history.noMatches" : {
+      "comment" : "History: shown when the search matches nothing",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No matches."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin coincidencias."
+          }
+        }
+      }
+    },
+    "history.now" : {
+      "comment" : "History row: the time of an entry less than a minute old",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ahora"
+          }
+        }
+      }
+    },
+    "key.privacy" : {
+      "comment" : "Add-a-key card: line under the key field; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stored in your Mac's Keychain. Sent only to %@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se guarda en el Llavero de tu Mac. Solo se envía a %@."
+          }
+        }
+      }
+    },
+    "menu.engine" : {
+      "comment" : "⌘K menu: header of one provider's engine presets; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Engine · %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motor · %@"
+          }
+        }
+      }
+    },
+    "notice.stopped" : {
+      "comment" : "Panel notice under the kept text after the user stopped a run",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stopped. This partial result wasn't copied."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detenido. Este resultado parcial no se ha copiado."
+          }
+        }
+      }
+    },
+    "preset.balanced" : {
+      "comment" : "⌘K menu: engine preset, listed under each provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balanced"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equilibrado"
+          }
+        }
+      }
+    },
+    "preset.detailed" : {
+      "comment" : "⌘K menu: refine preset; also sent to the model as the refine instruction",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More detailed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más detallado"
+          }
+        }
+      }
+    },
+    "preset.examples" : {
+      "comment" : "⌘K menu: refine preset; also sent to the model as the refine instruction",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add examples"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir ejemplos"
+          }
+        }
+      }
+    },
+    "preset.fast" : {
+      "comment" : "⌘K menu: engine preset, listed under each provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fast"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rápido"
+          }
+        }
+      }
+    },
+    "preset.quality" : {
+      "comment" : "⌘K menu: engine preset, listed under each provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quality"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calidad"
+          }
+        }
+      }
+    },
+    "preset.shorter" : {
+      "comment" : "⌘K menu: refine preset; also sent to the model as the refine instruction",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shorter"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más corto"
+          }
+        }
+      }
+    },
+    "refine.placeholder" : {
+      "comment" : "Placeholder and VoiceOver label of the refine field on a result",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refine: shorter, add examples…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refinar: más corto, añade ejemplos…"
+          }
+        }
+      }
+    },
+    "setup.body" : {
+      "comment" : "Add-a-key card: text under the title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino rewrites your prompts using your own Anthropic or OpenAI key."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino reescribe tus prompts con tu propia clave de Anthropic u OpenAI."
+          }
+        }
+      }
+    },
+    "setup.checking" : {
+      "comment" : "Add-a-key card: status line while the key is checked",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Checking…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprobando…"
+          }
+        }
+      }
+    },
+    "setup.empty" : {
+      "comment" : "Add-a-key card: status line after Save Key with an empty field",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste a key first."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pega una clave primero."
+          }
+        }
+      }
+    },
+    "setup.getKey" : {
+      "comment" : "Add-a-key card: link to the provider's API key page",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get a key"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conseguir una clave"
+          }
+        }
+      }
+    },
+    "setup.keyFieldLabel" : {
+      "comment" : "Add-a-key card: VoiceOver label of the key field",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API key"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clave de API"
+          }
+        }
+      }
+    },
+    "setup.keyPlaceholder" : {
+      "comment" : "Add-a-key card: placeholder of the key field; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste your %@ API key"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pega tu clave de API de %@"
+          }
+        }
+      }
+    },
+    "setup.paste" : {
+      "comment" : "Add-a-key card: button that pastes the key from the clipboard",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pegar"
+          }
+        }
+      }
+    },
+    "setup.providerLabel" : {
+      "comment" : "Add-a-key card: VoiceOver label of the provider choice",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provider"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proveedor"
+          }
+        }
+      }
+    },
+    "setup.rejected" : {
+      "comment" : "Add-a-key card: status line when the provider rejected the key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This key was rejected. Check that you copied all of it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ha rechazado esta clave. Comprueba que la has copiado entera."
+          }
+        }
+      }
+    },
+    "setup.save" : {
+      "comment" : "Add-a-key card: main button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Key"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar clave"
+          }
+        }
+      }
+    },
+    "setup.storeFailed" : {
+      "comment" : "Add-a-key card: status line when the Keychain refused to store the key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The key couldn't be saved in the Keychain. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido guardar la clave en el Llavero. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "setup.title" : {
+      "comment" : "Add-a-key card: title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add an API key to start"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añade una clave de API para empezar"
+          }
+        }
+      }
+    },
+    "setup.unverified" : {
+      "comment" : "Add-a-key card: status line when the key was saved without a check",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved, but it couldn't be checked right now. It'll be checked on first use."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardada, pero no se ha podido comprobar ahora. Se comprobará al usarla."
+          }
+        }
+      }
+    },
+    "setup.useProvider" : {
+      "comment" : "Add-a-key card: button that switches to the other provider; %@ is that provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar %@"
+          }
+        }
+      }
+    },
+    "setup.works" : {
+      "comment" : "Add-a-key card: status line when the provider accepted the key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Key works"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La clave funciona"
+          }
+        }
+      }
+    },
+    "setup.wrongProvider" : {
+      "comment" : "Add-a-key card: status line when the key belongs to the other provider; %@ is that provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This looks like an %@ key."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parece una clave de %@."
+          }
+        }
+      }
+    },
+    "shortcuts.chooseTarget" : {
+      "comment" : "Settings › Shortcuts row: ⌘1 to ⌘9 pick a target",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a target"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegir destino"
+          }
+        }
+      }
+    },
+    "shortcuts.close" : {
+      "comment" : "Settings › Shortcuts row: Esc closes the panel",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close the panel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar el panel"
+          }
+        }
+      }
+    },
+    "shortcuts.navigate" : {
+      "comment" : "Settings › Shortcuts: group title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navigate"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navegar"
+          }
+        }
+      }
+    },
+    "shortcuts.nextTarget" : {
+      "comment" : "Settings › Shortcuts row: Tab moves to the next target",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next target"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siguiente destino"
+          }
+        }
+      }
+    },
+    "shortcuts.previousDraft" : {
+      "comment" : "Settings › Shortcuts row: ↑ recalls the previous draft",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous draft"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrador anterior"
+          }
+        }
+      }
+    },
+    "shortcuts.previousTarget" : {
+      "comment" : "Settings › Shortcuts row: ⇧Tab moves to the previous target",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous target"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destino anterior"
+          }
+        }
+      }
+    },
+    "shortcuts.result" : {
+      "comment" : "Settings › Shortcuts: group title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Result"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultado"
+          }
+        }
+      }
+    },
+    "shortcuts.resultReturn" : {
+      "comment" : "Settings › Shortcuts row: what Return does on a result",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refine, rewrite, or copy and close"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refinar, reescribir o copiar y cerrar"
+          }
+        }
+      }
+    },
+    "shortcuts.stop" : {
+      "comment" : "Settings › Shortcuts row: stops a run in progress",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener"
+          }
+        }
+      }
+    },
+    "shortcuts.write" : {
+      "comment" : "Settings › Shortcuts: group title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribir"
+          }
+        }
+      }
+    },
+    "state.off" : {
+      "comment" : "⌘K menu: second line of Custom Instructions… while they are off",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desactivadas"
+          }
+        }
+      }
+    },
+    "state.on" : {
+      "comment" : "⌘K menu: second line of Custom Instructions… while they are on",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activadas"
+          }
+        }
+      }
+    },
+    "status.copied" : {
+      "comment" : "Result header status and the Copy & Close confirmation: the result is on the clipboard",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copied"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiado"
+          }
+        }
+      }
+    },
+    "status.retrying.network" : {
+      "comment" : "Result header status while a request is retried after a network problem",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connection hiccup, retrying…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo de conexión, reintentando…"
+          }
+        }
+      }
+    },
+    "status.retrying.other" : {
+      "comment" : "Result header status while a request is retried because the server asked for it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retrying…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentando…"
+          }
+        }
+      }
+    },
+    "status.retrying.overloaded" : {
+      "comment" : "Result header status while a request is retried because the provider is overloaded",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Busy, retrying…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saturado, reintentando…"
+          }
+        }
+      }
+    },
+    "status.retrying.rateLimited" : {
+      "comment" : "Result header status while a request is retried after a rate limit",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate limited, retrying…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite de peticiones, reintentando…"
+          }
+        }
+      }
+    },
+    "status.retrying.serverError" : {
+      "comment" : "Result header status while a request is retried after a server error",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server error, retrying…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error del servidor, reintentando…"
+          }
+        }
+      }
+    },
+    "status.retrying.timedOut" : {
+      "comment" : "Result header status while a request is retried after a slow response",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slow to answer, retrying…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarda en responder, reintentando…"
+          }
+        }
+      }
+    },
+    "status.stopped" : {
+      "comment" : "VoiceOver announcement when the user stops a run before it wrote anything",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stopped"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detenido"
+          }
+        }
+      }
+    },
+    "status.thinking" : {
+      "comment" : "Result header status while waiting for the first text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thinking…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensando…"
+          }
+        }
+      }
+    },
+    "status.thinkingElapsed" : {
+      "comment" : "Result header status after 5 seconds without text; %d is the seconds",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thinking… %d s"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensando… %d s"
+          }
+        }
+      }
+    },
+    "status.writing" : {
+      "comment" : "Result header status while text arrives",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Writing…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribiendo…"
+          }
+        }
+      }
+    },
+    "status.writtenBy" : {
+      "comment" : "Tooltip of the result header status; %@ is the model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Written by %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escrito por %@"
+          }
+        }
+      }
+    },
+    "target.accessibility" : {
+      "comment" : "VoiceOver label of the panel footer's target chip; %@ is the target",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Target: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destino: %@"
+          }
+        }
+      }
+    },
+    "target.accessibilityHint" : {
+      "comment" : "VoiceOver hint of the panel footer's target chip",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chooses who the prompt is for"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige para quién es el prompt"
+          }
+        }
+      }
+    },
+    "target.any" : {
+      "comment" : "Name of the generic target, in the target chip and the target menu",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Any model"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cualquier modelo"
+          }
+        }
+      }
+    },
+    "target.menuTitle" : {
+      "comment" : "Title of the target menu",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write the prompt for"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribir el prompt para"
+          }
+        }
+      }
+    },
+    "target.prefix" : {
+      "comment" : "Panel footer label before the target chip",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para"
+          }
+        }
+      }
+    },
+    "version.accessibility" : {
+      "comment" : "VoiceOver value of the version stepper in the result header; %1$d is the version, %2$d the count",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %1$d of %2$d"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versión %1$d de %2$d"
+          }
+        }
+      }
+    },
+    "version.next" : {
+      "comment" : "Version stepper button in the result header, and Settings › Shortcuts row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next version"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versión siguiente"
+          }
+        }
+      }
+    },
+    "version.previous" : {
+      "comment" : "Version stepper button in the result header, and Settings › Shortcuts row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous version"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versión anterior"
+          }
+        }
+      }
+    },
+    "version.stepper" : {
+      "comment" : "Version stepper in the result header; %1$d is the version, %2$d the count",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$d of %2$d"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$d de %2$d"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

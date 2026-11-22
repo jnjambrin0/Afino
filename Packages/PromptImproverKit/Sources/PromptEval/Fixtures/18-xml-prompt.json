@@ -1,0 +1,21 @@
+{
+  "id": "xml-prompt",
+  "title": "Prompt structured with XML tags and two examples",
+  "draft": "<instructions>\nClassify each customer message into exactly one category: billing, bug, feature_request or other. Reply with the category name only, in lowercase.\n</instructions>\n\n<examples>\n<example>\nMessage: I was charged twice for my March invoice.\nCategory: billing\n</example>\n<example>\nMessage: The export button does nothing when I click it in Safari.\nCategory: bug\n</example>\n</examples>\n\n<message>\n{{message}}\n</message>",
+  "target": "claude",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "feature_request"
+  ],
+  "preserveVerbatim": [
+    "<instructions>",
+    "</instructions>",
+    "<examples>",
+    "</examples>",
+    "Message: I was charged twice for my March invoice.\nCategory: billing",
+    "Message: The export button does nothing when I click it in Safari.\nCategory: bug",
+    "{{message}}"
+  ],
+  "inSmoke": false,
+  "notes": "Tags and examples kept; the result must not be wrapped in a code fence."
+}

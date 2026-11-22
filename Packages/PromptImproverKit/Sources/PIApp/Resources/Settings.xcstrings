@@ -1,0 +1,2310 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "settings.about.acknowledgements" : {
+      "comment" : "Settings › About: link row that opens the acknowledgements dialog, and that dialog's title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acknowledgements"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agradecimientos"
+          }
+        }
+      }
+    },
+    "settings.about.acknowledgements.message" : {
+      "comment" : "Settings › About: text of the acknowledgements dialog",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino updates itself with Sparkle, © Andy Matuschak and the Sparkle Project contributors, used under the MIT License."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino se actualiza con Sparkle, © Andy Matuschak y los colaboradores del proyecto Sparkle, usado bajo la licencia MIT."
+          }
+        }
+      }
+    },
+    "settings.about.automatic" : {
+      "comment" : "Settings › About: switch that turns automatic update checks on or off",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check automatically"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar automáticamente"
+          }
+        }
+      }
+    },
+    "settings.about.checkForUpdates" : {
+      "comment" : "Settings › About: button beside the version that checks for updates now",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check for Updates"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar actualizaciones"
+          }
+        }
+      }
+    },
+    "settings.about.done" : {
+      "comment" : "Settings › About: button that closes the acknowledgements dialog",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hecho"
+          }
+        }
+      }
+    },
+    "settings.about.links.section" : {
+      "comment" : "Settings › About: title of the section with the links",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más"
+          }
+        }
+      }
+    },
+    "settings.about.releaseNotes" : {
+      "comment" : "Settings › About: link row that opens the release notes on the web",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Release notes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notas de la versión"
+          }
+        }
+      }
+    },
+    "settings.about.updatesOff.build" : {
+      "comment" : "Settings › About: note under the updates card when this build has no update feed",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This build can't check for updates."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta versión no puede buscar actualizaciones."
+          }
+        }
+      }
+    },
+    "settings.about.updatesOff.debug" : {
+      "comment" : "Settings › About: note under the updates card in development builds",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Development builds don't check for updates."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las versiones de desarrollo no buscan actualizaciones."
+          }
+        }
+      }
+    },
+    "settings.about.updatesOff.location" : {
+      "comment" : "Settings › About: note under the updates card when the app is somewhere it cannot replace itself",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Afino to Applications to get updates."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mueve Afino a Aplicaciones para recibir actualizaciones."
+          }
+        }
+      }
+    },
+    "settings.about.version" : {
+      "comment" : "Settings › About: version line under the app name; %1$@ is the version, %2$@ the build number",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %1$@ (%2$@)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versión %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "settings.about.website" : {
+      "comment" : "Settings › About: link row that opens the project's website",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Website"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitio web"
+          }
+        }
+      }
+    },
+    "settings.about.welcome" : {
+      "comment" : "Settings › About: title of the row that shows the welcome window again",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show welcome again"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volver a mostrar la bienvenida"
+          }
+        }
+      }
+    },
+    "settings.about.welcome.button" : {
+      "comment" : "Settings › About: button that shows the welcome window again",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar"
+          }
+        }
+      }
+    },
+    "settings.about.welcome.done" : {
+      "comment" : "Settings › About: shown with a checkmark in place of the button once the welcome window has opened",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opened"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abierta"
+          }
+        }
+      }
+    },
+    "settings.about.welcome.help" : {
+      "comment" : "Settings › About: subtitle of the row that shows the welcome window again",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How Afino works, and its shortcuts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cómo funciona Afino y sus atajos"
+          }
+        }
+      }
+    },
+    "settings.engine.customModel.other" : {
+      "comment" : "Settings › Engine: option of the custom model picker for a model ID typed by hand",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other model"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otro modelo"
+          }
+        }
+      }
+    },
+    "settings.engine.customModel.title" : {
+      "comment" : "Settings › Engine: title of the custom model picker row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a model"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegir modelo"
+          }
+        }
+      }
+    },
+    "settings.engine.customModel.unavailable" : {
+      "comment" : "Settings › Engine: custom model picker option for a model the key cannot use; %@ is the model's name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ (not available)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ (no disponible)"
+          }
+        }
+      }
+    },
+    "settings.engine.effort.help" : {
+      "comment" : "Settings › Engine: subtitle of the effort row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Higher effort is slower and thinks longer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con más esfuerzo tarda más, pero piensa más a fondo"
+          }
+        }
+      }
+    },
+    "settings.engine.effort.high" : {
+      "comment" : "Settings › Engine: effort chip of a custom model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "High"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alto"
+          }
+        }
+      }
+    },
+    "settings.engine.effort.low" : {
+      "comment" : "Settings › Engine: effort chip of a custom model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bajo"
+          }
+        }
+      }
+    },
+    "settings.engine.effort.medium" : {
+      "comment" : "Settings › Engine: effort chip of a custom model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medio"
+          }
+        }
+      }
+    },
+    "settings.engine.effort.title" : {
+      "comment" : "Settings › Engine: title of the row that sets how long a custom model reasons",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effort"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esfuerzo"
+          }
+        }
+      }
+    },
+    "settings.engine.keys.footer" : {
+      "comment" : "Settings › Engine: note under the API keys card",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keys are stored in your Mac's Keychain and sent only to their provider."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las claves se guardan en el Llavero de tu Mac y solo se envían a su proveedor."
+          }
+        }
+      }
+    },
+    "settings.engine.keys.section" : {
+      "comment" : "Settings › Engine: title of the API keys section",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API keys"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claves de API"
+          }
+        }
+      }
+    },
+    "settings.engine.model.title" : {
+      "comment" : "Settings › Engine: title of the row with the model chips (Quality, Balanced, Fast, Custom)",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modelo"
+          }
+        }
+      }
+    },
+    "settings.engine.modelID.placeholder" : {
+      "comment" : "Settings › Engine: placeholder of the model ID field; %@ is an example model ID",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e.g. %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "p. ej. %@"
+          }
+        }
+      }
+    },
+    "settings.engine.modelID.title" : {
+      "comment" : "Settings › Engine: title of the row with the free-text model ID field",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model ID"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID del modelo"
+          }
+        }
+      }
+    },
+    "settings.engine.preset.balanced" : {
+      "comment" : "Settings › Engine: model chip for a model that balances quality and speed",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balanced"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equilibrado"
+          }
+        }
+      }
+    },
+    "settings.engine.preset.custom" : {
+      "comment" : "Settings › Engine: model chip that lets the user choose any model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalizado"
+          }
+        }
+      }
+    },
+    "settings.engine.preset.fast" : {
+      "comment" : "Settings › Engine: model chip for the fastest model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fast"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rápido"
+          }
+        }
+      }
+    },
+    "settings.engine.preset.quality" : {
+      "comment" : "Settings › Engine: model chip for the most capable model",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quality"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calidad"
+          }
+        }
+      }
+    },
+    "settings.engine.provider.needsKey" : {
+      "comment" : "Settings › Engine: tooltip on a provider chip that has no usable API key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a key below"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añade una clave abajo"
+          }
+        }
+      }
+    },
+    "settings.engine.provider.title" : {
+      "comment" : "Settings › Engine: title of the provider row (Anthropic, OpenAI)",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provider"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proveedor"
+          }
+        }
+      }
+    },
+    "settings.engine.rewrite.section" : {
+      "comment" : "Settings › Engine: title of the section with the provider and model that rewrite prompts",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rewrite with"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reescribir con"
+          }
+        }
+      }
+    },
+    "settings.general.appearance.section" : {
+      "comment" : "Settings › General: title of the appearance section",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appearance"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apariencia"
+          }
+        }
+      }
+    },
+    "settings.general.clearHistory.button" : {
+      "comment" : "Settings › General: button that deletes the history",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar"
+          }
+        }
+      }
+    },
+    "settings.general.clearHistory.done" : {
+      "comment" : "Settings › General: shown with a checkmark in place of the button once the history is deleted",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cleared"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrado"
+          }
+        }
+      }
+    },
+    "settings.general.clearHistory.failed" : {
+      "comment" : "Settings › General: subtitle of the clear history row when the history could not be deleted",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't clear the history. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido borrar el historial. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "settings.general.clearHistory.help" : {
+      "comment" : "Settings › General: subtitle of the clear history row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deletes every saved improvement right away"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina al momento todas las mejoras guardadas"
+          }
+        }
+      }
+    },
+    "settings.general.clearHistory.title" : {
+      "comment" : "Settings › General: title of the clear history row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear history"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar historial"
+          }
+        }
+      }
+    },
+    "settings.general.defaultTarget.lastUsed" : {
+      "comment" : "Settings › General: default target option; a new prompt starts with the target used last",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last used"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El último usado"
+          }
+        }
+      }
+    },
+    "settings.general.defaultTarget.title" : {
+      "comment" : "Settings › General: title of the row that picks the target a new prompt starts with",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default target"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destino por defecto"
+          }
+        }
+      }
+    },
+    "settings.general.history.help" : {
+      "comment" : "Settings › General: subtitle of the keep history switch",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The last 50 improvements, only on this Mac"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las últimas 50 mejoras, solo en este Mac"
+          }
+        }
+      }
+    },
+    "settings.general.history.title" : {
+      "comment" : "Settings › General: switch that keeps a history of improvements",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep history"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar historial"
+          }
+        }
+      }
+    },
+    "settings.general.language.english" : {
+      "comment" : "Settings › General: output language option; the improved prompt is always in English",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inglés"
+          }
+        }
+      }
+    },
+    "settings.general.language.matchDraft" : {
+      "comment" : "Settings › General: output language option; the improved prompt is in the language the user wrote in",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Same as my prompt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El de mi prompt"
+          }
+        }
+      }
+    },
+    "settings.general.language.title" : {
+      "comment" : "Settings › General: title of the row that picks the language of the improved prompt",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Output language"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma del resultado"
+          }
+        }
+      }
+    },
+    "settings.general.launcher.section" : {
+      "comment" : "Settings › General: title of the section with the global shortcut and open at login",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launcher"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apertura"
+          }
+        }
+      }
+    },
+    "settings.general.login.approval" : {
+      "comment" : "Settings › General: note under the open at login switch while macOS waits for the user's approval",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow Afino in System Settings › General › Login Items so it can open at login."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permite Afino en Ajustes del Sistema › General › Ítems de inicio para que se abra al iniciar sesión."
+          }
+        }
+      }
+    },
+    "settings.general.login.error" : {
+      "comment" : "Settings › General: note under the open at login switch when it could not be changed; %@ is the system's explanation",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't change this: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido cambiar: %@"
+          }
+        }
+      }
+    },
+    "settings.general.login.openSystemSettings" : {
+      "comment" : "Settings › General: button under the open at login switch that opens System Settings",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open System Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Ajustes del Sistema"
+          }
+        }
+      }
+    },
+    "settings.general.login.title" : {
+      "comment" : "Settings › General: switch that opens Afino when the user logs in",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open at login"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir al iniciar sesión"
+          }
+        }
+      }
+    },
+    "settings.general.privacy.section" : {
+      "comment" : "Settings › General: title of the section with the history settings",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacidad"
+          }
+        }
+      }
+    },
+    "settings.general.prompts.section" : {
+      "comment" : "Settings › General: title of the section with the default target and output language",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompts"
+          }
+        }
+      }
+    },
+    "settings.general.shortcut.help" : {
+      "comment" : "Settings › General: subtitle of the global shortcut row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Works from any app"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funciona desde cualquier app"
+          }
+        }
+      }
+    },
+    "settings.general.shortcut.title" : {
+      "comment" : "Settings › General: title of the global shortcut row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Afino"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Afino"
+          }
+        }
+      }
+    },
+    "settings.general.theme.dark" : {
+      "comment" : "Settings › General: theme chip",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oscuro"
+          }
+        }
+      }
+    },
+    "settings.general.theme.light" : {
+      "comment" : "Settings › General: theme chip",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claro"
+          }
+        }
+      }
+    },
+    "settings.general.theme.system" : {
+      "comment" : "Settings › General: theme chip that follows the system's appearance",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sistema"
+          }
+        }
+      }
+    },
+    "settings.general.theme.title" : {
+      "comment" : "Settings › General: title of the theme row",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema"
+          }
+        }
+      }
+    },
+    "settings.instructions.counter" : {
+      "comment" : "Settings › Instructions: character counter under the editor, e.g. 212 / 2,000; %1$@ is the count, %2$@ the limit",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ / %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "settings.instructions.counter.accessibility" : {
+      "comment" : "Settings › Instructions: what VoiceOver reads for the character counter; %1$@ is the count, %2$@ the limit",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ of %2$@ characters"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ de %2$@ caracteres"
+          }
+        }
+      }
+    },
+    "settings.instructions.editor.accessibility" : {
+      "comment" : "Settings › Instructions: VoiceOver name of the instructions editor",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom instructions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instrucciones propias"
+          }
+        }
+      }
+    },
+    "settings.instructions.editor.placeholder" : {
+      "comment" : "Settings › Instructions: placeholder of the empty editor",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tell Afino how you like your prompts written."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuéntale a Afino cómo te gusta que escriba tus prompts."
+          }
+        }
+      }
+    },
+    "settings.instructions.editor.section" : {
+      "comment" : "Settings › Instructions: title of the section with the editor",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your instructions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tus instrucciones"
+          }
+        }
+      }
+    },
+    "settings.instructions.example.english" : {
+      "comment" : "Settings › Instructions: example chip; clicking it adds this sentence to the instructions as written",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always write in English"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe siempre en inglés"
+          }
+        }
+      }
+    },
+    "settings.instructions.example.noRole" : {
+      "comment" : "Settings › Instructions: example chip; clicking it adds this sentence to the instructions as written",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No role or persona line"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin línea de rol ni de personaje"
+          }
+        }
+      }
+    },
+    "settings.instructions.example.short" : {
+      "comment" : "Settings › Instructions: example chip; clicking it adds this sentence to the instructions as written",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep it under 200 words"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que no pase de 200 palabras"
+          }
+        }
+      }
+    },
+    "settings.instructions.example.xml" : {
+      "comment" : "Settings › Instructions: example chip; clicking it adds this sentence to the instructions as written",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use XML tags"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usa etiquetas XML"
+          }
+        }
+      }
+    },
+    "settings.instructions.examples.footer" : {
+      "comment" : "Settings › Instructions: note under the example chips",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click one to add it on a new line."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulsa uno para añadirlo en una línea nueva."
+          }
+        }
+      }
+    },
+    "settings.instructions.examples.section" : {
+      "comment" : "Settings › Instructions: title of the section with the example chips",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Examples"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ejemplos"
+          }
+        }
+      }
+    },
+    "settings.instructions.footer" : {
+      "comment" : "Settings › Instructions: note under the editor",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Applied to every improvement, on top of the built-in guidance for each target."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se aplican a cada mejora, además de la guía integrada de cada destino."
+          }
+        }
+      }
+    },
+    "settings.instructions.toggle.title" : {
+      "comment" : "Settings › Instructions: switch that turns the custom instructions on or off",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use custom instructions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar instrucciones propias"
+          }
+        }
+      }
+    },
+    "settings.key.accessibility" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): VoiceOver name of the field; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ API key"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clave de API de %@"
+          }
+        }
+      }
+    },
+    "settings.key.cancel" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): button that stops replacing a saved key; also the cancel button of the remove key dialog",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "settings.key.check" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): button that checks the saved key with the provider again",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprobar"
+          }
+        }
+      }
+    },
+    "settings.key.getKey" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): link that opens the provider's API keys page on the web",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get a key ↗"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conseguir una clave ↗"
+          }
+        }
+      }
+    },
+    "settings.key.message.empty" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): message under the field after Save with nothing typed",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste or type a key first."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pega o escribe una clave primero."
+          }
+        }
+      }
+    },
+    "settings.key.message.emptyClipboard" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): message under the field when Paste finds no text on the clipboard",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The clipboard has no text to paste."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El portapapeles no tiene texto que pegar."
+          }
+        }
+      }
+    },
+    "settings.key.message.limitedAccess" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): message under the field; the key was saved, but it cannot list models, so it was not fully checked",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved. This key can't list models, so it couldn't be fully checked."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardada. Esta clave no puede listar modelos, así que no se ha podido comprobar del todo."
+          }
+        }
+      }
+    },
+    "settings.key.message.rejected" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): message under the field when the provider refuses the key; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ rejected this key. Check it and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ha rechazado esta clave. Revísala y vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "settings.key.message.savedUnverified" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): message under the field when the key was saved without a connection to check it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't check the key without a connection. It's saved and will be tried on first use."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido comprobar la clave sin conexión. Está guardada y se probará la primera vez que la uses."
+          }
+        }
+      }
+    },
+    "settings.key.message.storeFailed" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): message under the field when the Keychain refused to store the key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't save the key in the Keychain. Try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido guardar la clave en el Llavero. Vuelve a intentarlo."
+          }
+        }
+      }
+    },
+    "settings.key.message.unreadable" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): message under the field when the saved key could not be read from the Keychain",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't read this key from the Keychain. Paste it again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido leer esta clave del Llavero. Vuelve a pegarla."
+          }
+        }
+      }
+    },
+    "settings.key.message.wrongProvider" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): message under the field when the key belongs to the other provider; %@ is that provider (Anthropic or OpenAI)",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This looks like an %@ key."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parece una clave de %@."
+          }
+        }
+      }
+    },
+    "settings.key.paste" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): button that pastes a key from the clipboard and saves it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pegar"
+          }
+        }
+      }
+    },
+    "settings.key.placeholder" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): placeholder of the empty field; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste your %@ API key"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pega tu clave de API de %@"
+          }
+        }
+      }
+    },
+    "settings.key.remove" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): button that removes the saved key; also the confirming button of the remove key dialog",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitar"
+          }
+        }
+      }
+    },
+    "settings.key.remove.message" : {
+      "comment" : "Settings › Engine: message of the dialog that confirms removing a key; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino can't use %@ until you add a key again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afino no podrá usar %@ hasta que vuelvas a añadir una clave."
+          }
+        }
+      }
+    },
+    "settings.key.remove.title" : {
+      "comment" : "Settings › Engine: title of the dialog that confirms removing a key; %@ is the provider",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove the %@ key?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Quitar la clave de %@?"
+          }
+        }
+      }
+    },
+    "settings.key.replace.hint" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): VoiceOver hint on a saved key, which is shown masked",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type a new key to replace it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe una clave nueva para sustituirla"
+          }
+        }
+      }
+    },
+    "settings.key.save" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): button that saves the key typed in the field",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
+          }
+        }
+      }
+    },
+    "settings.key.status.checking" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): badge beside the provider's name while the key is being checked; also what VoiceOver reads for the spinner",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Checking…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprobando…"
+          }
+        }
+      }
+    },
+    "settings.key.status.invalid" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): badge beside the provider's name when the provider refused the key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not valid"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No válida"
+          }
+        }
+      }
+    },
+    "settings.key.status.missing" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): badge beside the provider's name when no key is saved",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not set"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin clave"
+          }
+        }
+      }
+    },
+    "settings.key.status.unverified" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): badge beside the provider's name when the key is saved but not checked",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not checked"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin comprobar"
+          }
+        }
+      }
+    },
+    "settings.key.status.valid" : {
+      "comment" : "API key field (Settings › Engine and the welcome window): badge beside the provider's name when the key works",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valid"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Válida"
+          }
+        }
+      }
+    },
+    "settings.pane.about" : {
+      "comment" : "Settings sidebar: name of the About pane, also its title and the window title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        }
+      }
+    },
+    "settings.pane.engine" : {
+      "comment" : "Settings sidebar: name of the pane with the provider, model and API keys, also its title and the window title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Engine"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motor"
+          }
+        }
+      }
+    },
+    "settings.pane.general" : {
+      "comment" : "Settings sidebar: name of the General pane, also its title and the window title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        }
+      }
+    },
+    "settings.pane.instructions" : {
+      "comment" : "Settings sidebar: name of the pane with the user's custom instructions, also its title and the window title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instructions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instrucciones"
+          }
+        }
+      }
+    },
+    "settings.pane.shortcuts" : {
+      "comment" : "Settings sidebar: name of the pane that lists the keyboard shortcuts, also its title and the window title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcuts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atajos"
+          }
+        }
+      }
+    },
+    "settings.shortcut.announce.cleared" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): VoiceOver announcement after the shortcut is turned off",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut removed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atajo quitado"
+          }
+        }
+      }
+    },
+    "settings.shortcut.announce.recorded" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): VoiceOver announcement after a new shortcut is set; %@ is the shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut set to %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atajo cambiado a %@"
+          }
+        }
+      }
+    },
+    "settings.shortcut.announce.recording" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): VoiceOver announcement when recording starts",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recording. Type the new shortcut."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grabando. Pulsa el nuevo atajo."
+          }
+        }
+      }
+    },
+    "settings.shortcut.clear" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): tooltip and VoiceOver name of the button that turns the shortcut off",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear shortcut"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitar atajo"
+          }
+        }
+      }
+    },
+    "settings.shortcut.conflict.app" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): warning when another app holds the combination",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Another app is using this shortcut. Choose another."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otra app usa este atajo. Elige otro."
+          }
+        }
+      }
+    },
+    "settings.shortcut.conflict.menu" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): warning when a menu item uses the combination; %@ is the item's title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The menu item “%@” already uses this shortcut."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El elemento de menú «%@» ya usa este atajo."
+          }
+        }
+      }
+    },
+    "settings.shortcut.conflict.shortcut" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): warning when another Afino shortcut uses the combination; %@ is what that shortcut does",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This shortcut already does “%@”."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este atajo ya se usa para «%@»."
+          }
+        }
+      }
+    },
+    "settings.shortcut.conflict.system" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): warning when macOS uses the combination",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS already uses this shortcut. Choose another."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS ya usa este atajo. Elige otro."
+          }
+        }
+      }
+    },
+    "settings.shortcut.none" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): shown when no shortcut is set; also in Settings › Shortcuts and read by VoiceOver",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not set"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin atajo"
+          }
+        }
+      }
+    },
+    "settings.shortcut.notRegistered" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): warning when macOS refused to register the shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS didn't accept this shortcut. Choose another."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS no ha aceptado este atajo. Elige otro."
+          }
+        }
+      }
+    },
+    "settings.shortcut.record.accessibility" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): VoiceOver name of the recorder",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Record shortcut"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grabar atajo"
+          }
+        }
+      }
+    },
+    "settings.shortcut.recording" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): shown in the recorder while it waits for a key combination",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type shortcut"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulsa el atajo"
+          }
+        }
+      }
+    },
+    "settings.shortcut.space" : {
+      "comment" : "Shortcut recorder (Settings › General and the welcome window): name of the space bar when VoiceOver reads a shortcut",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Space"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espacio"
+          }
+        }
+      }
+    },
+    "settings.shortcuts.anywhere.section" : {
+      "comment" : "Settings › Shortcuts: title of the section with the global shortcut, which works in any app",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anywhere"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En cualquier app"
+          }
+        }
+      }
+    },
+    "settings.shortcuts.change" : {
+      "comment" : "Settings › Shortcuts: button that goes to the shortcut recorder in Settings › General",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar…"
+          }
+        }
+      }
+    },
+    "settings.shortcuts.open" : {
+      "comment" : "Settings › Shortcuts: title of the row with the global shortcut that opens Afino",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Afino"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Afino"
+          }
+        }
+      }
+    },
+    "settings.sidebar.accessibility" : {
+      "comment" : "Settings sidebar: VoiceOver name of the sidebar",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings sections"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Secciones de Ajustes"
+          }
+        }
+      }
+    },
+    "status.copyLastResult" : {
+      "comment" : "Menu bar menu: item that copies the last improved prompt",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Last Result"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar último resultado"
+          }
+        }
+      }
+    },
+    "status.history" : {
+      "comment" : "Menu bar menu: item that opens the history",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historial…"
+          }
+        }
+      }
+    },
+    "status.stop" : {
+      "comment" : "Menu bar menu: item that stops the improvement in progress",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener"
+          }
+        }
+      }
+    },
+    "status.tooltip.done" : {
+      "comment" : "Menu bar icon: tooltip after a run finished in the background",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved prompt ready and copied"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompt mejorado listo y copiado"
+          }
+        }
+      }
+    },
+    "status.tooltip.failed" : {
+      "comment" : "Menu bar icon: tooltip after a run failed in the background",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The last improvement didn't finish. Open Afino to see why."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La última mejora no ha terminado. Abre Afino para ver por qué."
+          }
+        }
+      }
+    },
+    "status.tooltip.noKey" : {
+      "comment" : "Menu bar icon: tooltip when there is no usable API key",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add an API key in Settings to start."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añade una clave de API en Ajustes para empezar."
+          }
+        }
+      }
+    },
+    "status.tooltip.running" : {
+      "comment" : "Menu bar icon: tooltip while a prompt is being improved",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improving a prompt…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejorando un prompt…"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

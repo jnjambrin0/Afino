@@ -1,0 +1,23 @@
+{
+  "id": "en-long-messy",
+  "title": "Long rambling requirements with six planted facts",
+  "draft": "ok so I need help writing up what we want for the check-in thing at the gym, sorry this is going to be a bit all over the place. we run a bouldering gym (two rooms, the old one on Calle Pujades and the new one near the station) and right now people check in by writing their name on a clipboard, which is a disaster on weekends. what we want is a simple app at the front desk where members scan a QR code or type their membership number and it logs them in. it has to run on the Raspberry Pi 4 we already have at the desk because we're not buying any more hardware this year, the screen is a cheap 10 inch touchscreen. oh and the wifi in the old room drops out constantly so it needs to keep working offline and sync later, that's a hard requirement honestly, last time a tablet app lost a whole Saturday of check-ins.\n\nthe staff are mostly students working part time and some of them don't speak much Spanish, so the interface needs to be in Spanish and Catalan at minimum, English would be nice but not essential. the whole check-in should take under 90 seconds even for a new member signing the waiver for the first time, otherwise the queue goes out the door. members under 16 need a parent's signature on the waiver, I almost forgot that, it's a legal thing.\n\nour accountant Ilse needs a monthly export of visits per member, she said a spreadsheet is fine, she does not want to log into anything. we also use Mailchimp for the newsletter and it would be great if new members who tick the newsletter box got added there automatically, but if that's complicated it can wait for a second version. we don't take payments in this app, payments stay in the existing till system, please don't make it do payments.\n\nthe owners want it live by June 3 because that's when the summer passes start and summer is our busiest season. I don't know if it should be a web app or a native thing, I'm not technical, my cousin is going to build it and he said he wants a clear brief he can hand to an AI to help him plan it. he knows Python and a bit of JavaScript and he has evenings and weekends, so maybe six weeks of part-time work in total.\n\nI think that's everything. oh one more thing, the owners really care that it's simple, they've been burned by overcomplicated software before, so fewer features done well is better than lots of half working stuff. and it should be easy for the next person to maintain if my cousin moves away, he's talking about a job in Lisbon.",
+  "target": "gemini",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "Raspberry Pi 4",
+    "Catalan",
+    "90 seconds",
+    "Ilse",
+    "Mailchimp",
+    "June 3"
+  ],
+  "length": {
+    "ratio": {
+      "min": 0.6,
+      "max": 1.6
+    }
+  },
+  "inSmoke": true,
+  "notes": "The six planted facts: Raspberry Pi 4, Catalan, 90 seconds, Ilse, Mailchimp, June 3."
+}

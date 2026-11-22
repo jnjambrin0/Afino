@@ -1,0 +1,13 @@
+{
+  "input": [
+    { "role": "developer", "content": [ { "type": "input_text", "text": "You are the rewriting engine.\n\n<target_guidance>Be literal.</target_guidance>" } ] },
+    { "role": "user", "content": [ { "type": "input_text", "text": "Improve this: write a haiku about rain" } ] },
+    { "role": "assistant", "content": [ { "type": "output_text", "text": "Write a haiku about rain." } ] },
+    { "role": "user", "content": [ { "type": "input_text", "text": "Shorter, and in Spanish." } ] }
+  ],
+  "max_output_tokens": 24000,
+  "model": "gpt-6.2-astra",
+  "reasoning": { "effort": "medium" },
+  "store": false,
+  "stream": true
+}

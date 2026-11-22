@@ -1,0 +1,18 @@
+{
+  "id": "vars-mustache",
+  "title": "Template with mustache variables",
+  "draft": "Write a reply to {{customer_name}} about their delayed order {{order_id}}. Apologise once, explain that the courier lost the parcel at the regional depot and that a replacement ships within 2 working days at no cost. Keep the tone {{tone}} and the reply under 120 words. Don't offer discount codes.",
+  "target": "gpt",
+  "expectedLanguage": "en",
+  "mustContain": [
+    "2 working days",
+    "120 words"
+  ],
+  "preserveVerbatim": [
+    "{{customer_name}}",
+    "{{order_id}}",
+    "{{tone}}"
+  ],
+  "inSmoke": true,
+  "notes": "Variables belong to the person's tooling: kept exactly, none invented."
+}

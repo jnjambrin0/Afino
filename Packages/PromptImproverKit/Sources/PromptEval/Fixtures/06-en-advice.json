@@ -1,0 +1,9 @@
+{
+  "id": "en-advice",
+  "title": "Open technical advice question",
+  "draft": "should I use Postgres or MongoDB for a multi-tenant SaaS?",
+  "target": "claude",
+  "expectedLanguage": "en",
+  "inSmoke": false,
+  "notes": "Judged by the rubric only; the generic deterministic checks still apply."
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "generic",
+  "displayName": "Any model",
+  "vendorFamily": "generic",
+  "promptLabel": "an AI model",
+  "coversModels": "Any capable chat model, including local and open-weight models",
+  "symbol": "circle.dotted",
+  "sortOrder": 4,
+  "sources": [
+    {
+      "title": "Prompting best practices",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices",
+      "retrievedOn": "2026-11-21"
+    },
+    {
+      "title": "Using GPT-6.2",
+      "url": "https://developers.openai.com/api/docs/guides/latest-model/gpt-6.2-astra.md",
+      "retrievedOn": "2026-11-21"
+    },
+    {
+      "title": "Prompt design strategies",
+      "url": "https://aistudio.google.com/docs/prompting-strategies",
+      "retrievedOn": "2026-11-21"
+    }
+  ],
+  "packVersion": "2026.11.1",
+  "reviewedOn": "2026-11-21"
+}

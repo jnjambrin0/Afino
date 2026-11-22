@@ -1,0 +1,9 @@
+event: response.created
+data: {"type":"response.created","response":{"id":"resp_fail","object":"response","status":"in_progress","model":"gpt-6.2-sol","output":[],"usage":null},"sequence_number":0}
+
+event: response.in_progress
+data: {"type":"response.in_progress","response":{"id":"resp_fail","object":"response","status":"in_progress","model":"gpt-6.2-sol","output":[],"usage":null},"sequence_number":1}
+
+event: response.failed
+data: {"type":"response.failed","response":{"id":"resp_fail","object":"response","status":"failed","completed_at":null,"error":{"code":"server_error","message":"The model failed to generate a response."},"incomplete_details":null,"model":"gpt-6.2-sol","output":[],"usage":null},"sequence_number":2}
+

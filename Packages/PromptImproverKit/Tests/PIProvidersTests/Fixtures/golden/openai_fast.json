@@ -1,0 +1,11 @@
+{
+  "input": [
+    { "role": "developer", "content": [ { "type": "input_text", "text": "You are the rewriting engine.\n\n<target_guidance>Be literal.</target_guidance>" } ] },
+    { "role": "user", "content": [ { "type": "input_text", "text": "Improve this: write a haiku about rain" } ] }
+  ],
+  "max_output_tokens": 16000,
+  "model": "gpt-6-luna",
+  "reasoning": { "effort": "none" },
+  "store": false,
+  "stream": true
+}

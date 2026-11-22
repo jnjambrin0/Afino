@@ -1,0 +1,11 @@
+// Public address of the update feed: the one place it is set.
+// Read by the Release build (Config/Info.plist expands SPARKLE_FEED_URL into SUFeedURL) and
+// checked by scripts/release/00_validate_invariants.sh. Debug builds have no feed, so they never
+// look for updates.
+//
+// The feed, the bundle identifier and SPARKLE_PUBLIC_ED_KEY are what let installed copies keep
+// updating. Do not change any of them; docs/RELEASING.md explains why.
+//
+// `//` starts a comment in an xcconfig file, hence the empty `$()` between the slashes.
+
+SPARKLE_FEED_URL = https:/$()/jnjambrin0.github.io/Afino/updates/stable/appcast.xml
